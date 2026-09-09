@@ -1,39 +1,26 @@
 <div align="center">
 
-<h1>CHANDU SRI</h1>
+# CHANDU SRI
 
-<h3>AI / ML ENGINEER · PYTHON · MACHINE LEARNING</h3>
+### AI / ML ENGINEER
 
-<p><i>Building practical intelligence from data, models, and code.</i></p>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=900&center=true&vCenter=true&width=760&lines=AI+%2F+ML+ENGINEERING;DATA+%E2%86%92+MODELS+%E2%86%92+APPLICATIONS;BUILDING+PRACTICAL+MACHINE+LEARNING+SOLUTIONS" alt="Animated AI and ML engineering introduction" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&pause=900&center=true&vCenter=true&width=820&lines=AI+%2F+ML+ENGINEERING;PYTHON+%7C+MACHINE+LEARNING+%7C+DATA;BUILDING+PRACTICAL+INTELLIGENT+SOLUTIONS" alt="Animated AI and ML engineering introduction" />
 
 </div>
 
-<hr>
-
-<table>
-<tr>
-<td width="62%" valign="top">
+---
 
 ## Profile
 
-I’m **Chandu Sri**, focused on building a strong career in **Artificial Intelligence and Machine Learning**.
+**I build with data, code, and machine learning.**
 
-I enjoy turning ambiguous problems into structured data workflows, practical machine-learning models, and useful software. My current work centers on **Python, data preparation, supervised learning, model evaluation, and hands-on experimentation**.
+I’m Chandu Sri, focused on growing as an **AI/ML Engineer** through hands-on development and practical experimentation. I enjoy taking a problem from raw data to a working model, understanding what the results mean, and improving the solution from there.
 
-I’m especially interested in the point where **AI meets engineering** — where a model is not just trained, but shaped into something understandable, testable, and useful.
+My current foundation is centered on **Python, data preparation, supervised learning, model development, and evaluation**, with a growing interest in the engineering required to turn AI ideas into useful software.
 
-</td>
-<td width="38%" align="center" valign="middle">
+> **Think clearly. Build practically. Measure honestly. Improve continuously.**
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Developer working at a computer" />
-
-</td>
-</tr>
-</table>
-
-<hr>
+---
 
 ## Technology
 
@@ -55,114 +42,118 @@ I’m especially interested in the point where **AI meets engineering** — wher
 
 </div>
 
-<hr>
+---
 
 ## Selected Work
 
-<table>
-<tr>
-<td width="50%" valign="top">
+### 01 · House Price Prediction
 
-### House Price Prediction
+**Regression · Structured Data · Machine Learning**
 
-**Regression · Structured Data**
+A practical ML project focused on predicting house prices through a structured workflow covering data cleaning, missing-value handling, categorical encoding, train/test preparation, and regression modeling.
 
-A practical machine-learning project covering data preparation, missing-value handling, categorical encoding, train/test preparation, and regression modeling.
+**Stack**  
+`Python` `Pandas` `NumPy` `Scikit-learn`
 
-**Stack:** Python · Pandas · NumPy · Scikit-learn
+**Repository →** https://github.com/chandusriii/house_price_prediction
 
-<a href="https://github.com/chandusriii/house_price_prediction">Repository ↗</a>
+---
 
-</td>
-<td width="50%" valign="top">
+### 02 · Heart Disease Prediction
 
-### Heart Disease Prediction
+**Classification · Logistic Regression · Supervised Learning**
 
-**Classification · Logistic Regression**
+A classification project exploring patient-related features through preprocessing, model training, and evaluation using logistic regression.
 
-A supervised-learning project exploring classification using patient-related features and a logistic-regression workflow.
+**Stack**  
+`Python` `Pandas` `Scikit-learn`
 
-**Stack:** Python · Pandas · Scikit-learn
+**Repository →** https://github.com/chandusriii/Heart-Disease-Prediction-Logistic-Regression
 
-<a href="https://github.com/chandusriii/Heart-Disease-Prediction-Logistic-Regression">Repository ↗</a>
+---
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+### 03 · Iris Flower Classification
 
-### Iris Flower Classification
+**Classification · Supervised Learning · Prediction**
 
-**Supervised Learning · Classification**
+A focused machine-learning project for working through the end-to-end path from dataset preparation to model-based prediction.
 
-A focused ML implementation for working through the journey from dataset preparation to prediction.
+**Stack**  
+`Python` `Pandas` `Scikit-learn`
 
-**Stack:** Python · Pandas · Scikit-learn
+**Repository →** https://github.com/chandusriii/iris-flower-ml-classification
 
-<a href="https://github.com/chandusriii/iris-flower-ml-classification">Repository ↗</a>
+---
 
-</td>
-<td width="50%" valign="top">
+### 04 · Machine Learning From Scratch
 
-### Machine Learning From Scratch
+**Algorithms · Fundamentals · Implementation**
 
-**Algorithms · Fundamentals**
+A hands-on learning repository for understanding machine-learning concepts through implementation and experimentation rather than treating algorithms as black boxes.
 
-A hands-on workspace for understanding machine-learning ideas through implementation and experimentation.
+**Stack**  
+`Python` `Algorithms` `ML Fundamentals`
 
-**Stack:** Python · Algorithms · ML Fundamentals
+**Repository →** https://github.com/chandusriii/machine-learning-from-scratch
 
-<a href="https://github.com/chandusriii/machine-learning-from-scratch">Repository ↗</a>
+---
 
-</td>
-</tr>
-</table>
+## What I’m Interested In
 
-<hr>
+**Artificial Intelligence**  
+Building useful systems where software and intelligence meet.
 
-## Areas of Interest
+**Machine Learning**  
+Learning how data, features, algorithms, and evaluation work together.
 
-<div align="center">
+**Deep Learning & NLP**  
+Exploring modern approaches for more complex AI applications.
 
-**ARTIFICIAL INTELLIGENCE** &nbsp; · &nbsp; **MACHINE LEARNING** &nbsp; · &nbsp; **DEEP LEARNING**
+**Generative AI & LLM Applications**  
+Understanding how foundation models can become useful products and workflows.
 
-**NATURAL LANGUAGE PROCESSING** &nbsp; · &nbsp; **GENERATIVE AI** &nbsp; · &nbsp; **LLM APPLICATIONS**
+**AI Engineering**  
+Connecting models with APIs, software, deployment, and reliable engineering practices.
 
-**DATA SCIENCE** &nbsp; · &nbsp; **AI APPLICATION ENGINEERING**
+---
 
-</div>
+## How I Think About Engineering
 
-<p align="center"><i>Growing toward end-to-end AI engineering by connecting models, data, and software.</i></p>
+```text
+A good idea
+    ↓
+A clear problem
+    ↓
+Useful data
+    ↓
+A strong baseline
+    ↓
+Measured results
+    ↓
+Better iteration
+```
 
-<hr>
+I value **clarity, experimentation, evidence, and iteration**. A model is only one part of the solution; the quality of the thinking around it matters just as much.
 
-## How I Work
-
-<div align="center">
-
-<code>UNDERSTAND</code> → <code>EXPLORE</code> → <code>BUILD</code> → <code>EVALUATE</code> → <code>IMPROVE</code>
-
-</div>
-
-I value **clear problem framing, thoughtful data work, measurable experiments, and iteration**. The goal is always to learn from the result and make the next version stronger.
-
-<hr>
+---
 
 ## Connect
 
 <div align="center">
 
 <a href="https://github.com/chandusriii">
-<img src="https://img.shields.io/badge/GitHub-View%20My%20Work-18181B?style=for-the-badge&logo=github&logoColor=white" alt="View GitHub" />
+<img src="https://img.shields.io/badge/GitHub-EXPLORE%20MY%20WORK-18181B?style=for-the-badge&logo=github&logoColor=white" alt="Explore GitHub work" />
 </a>
 
-<!-- Replace the URL below with your real LinkedIn profile -->
+<!-- Replace with your actual LinkedIn profile -->
 <a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
+<img src="https://img.shields.io/badge/LinkedIn-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
 </a>
 
-<br><br>
+</div>
 
-<i>Building today. Learning continuously. Engineering toward better AI.</i>
+<div align="center">
+
+### BUILD · LEARN · ENGINEER
 
 </div>
