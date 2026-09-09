@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:09090B,28:0EA5E9,55:7C3AED,78:EC4899,100:F97316&height=230&section=header&text=CHANDU%20SRI&fontSize=58&fontColor=FFFFFF&animation=twinkling&fontAlignY=38&desc=AI%20%2F%20ML%20ENGINEER%20%7C%20BUILDING%20WITH%20DATA%20%26%20CODE&descAlignY=63&descSize=18" alt="Chandu Sri AI and ML engineer animated header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,25:0EA5E9,55:7C3AED,80:EC4899,100:F59E0B&height=230&section=header&text=CHANDU%20SRI&fontSize=58&fontColor=FFFFFF&animation=twinkling&fontAlignY=38&desc=AI%20%2F%20ML%20ENGINEER%20%7C%20BUILDING%20WITH%20DATA%20%26%20CODE&descAlignY=63&descSize=18" alt="Chandu Sri AI and ML engineer animated header"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&pause=750&color=22D3EE&center=true&vCenter=true&width=900&lines=PYTHON+%7C+MACHINE+LEARNING+%7C+AI;TURNING+DATA+INTO+MODELS;TURNING+MODELS+INTO+WORKING+IDEAS;LEARN+%E2%80%A2+BUILD+%E2%80%A2+EXPERIMENT+%E2%80%A2+IMPROVE" alt="Animated AI engineering tagline"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&pause=750&color=22D3EE&center=true&vCenter=true&width=900&lines=PYTHON+%7C+MACHINE+LEARNING+%7C+AI;TURNING+DATA+INTO+INTELLIGENCE;BUILDING+MODELS+THAT+SOLVE+PROBLEMS;LEARN+%E2%80%A2+BUILD+%E2%80%A2+EXPERIMENT+%E2%80%A2+IMPROVE" alt="Animated AI engineering tagline"/>
 
 <br/>
 
 <img src="https://img.shields.io/badge/AI%20%2F%20ML-7C3AED?style=for-the-badge&logo=openai&logoColor=white"/>
 <img src="https://img.shields.io/badge/MACHINE%20LEARNING-EC4899?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
 <img src="https://img.shields.io/badge/PYTHON-22D3EE?style=for-the-badge&logo=python&logoColor=07111F"/>
-<img src="https://img.shields.io/badge/BUILD%20MODE-F97316?style=for-the-badge&logo=rocket&logoColor=white"/>
+<img src="https://img.shields.io/badge/INTELLIGENT%20SYSTEMS-F59E0B?style=for-the-badge"/>
 
 <br/><br/>
 
@@ -19,27 +19,32 @@
 
 <div align="center">
 
-### *A problem becomes interesting when you can make a machine learn something useful from it.*
+### **I turn ideas, data, and experiments into practical machine-learning solutions.**
 
 </div>
 
 ---
 
-## 🧑‍💻 A LITTLE ABOUT ME
+## 👋 ABOUT ME
 
-I’m **Chandu Sri**, focused on growing as an **AI/ML Engineer** by building things, understanding the fundamentals behind them, and learning through real experimentation.
+I’m **Chandu Sri**, focused on growing as an **AI/ML Engineer** through hands-on building, strong fundamentals, and continuous experimentation.
 
-My work sits around **Python, data, machine learning, model development, and problem solving** — with a growing interest in the engineering that turns models into useful software.
+My interests sit at the intersection of **Python, data, machine learning, model development, and software engineering**.
+
+I enjoy taking a problem from **raw data → useful patterns → a working model → measurable results** and learning from every iteration.
 
 <div align="center">
 
-`QUESTION` → `DATA` → `MODEL` → `RESULT` → `LEARNING`
+<img src="https://img.shields.io/badge/PROBLEM%20SOLVING-0EA5E9?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/DATA%20THINKING-14B8A6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MODEL%20BUILDING-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/EXPERIMENTATION-EC4899?style=for-the-badge"/>
 
 </div>
 
 ---
 
-## 🛠️ TECHNOLOGY I WORK WITH
+## 🧠 AI / ML TOOLBOX
 
 <div align="center">
 
@@ -53,7 +58,7 @@ My work sits around **Python, data, machine learning, model development, and pro
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/PYTHON%20ENGINEERING-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/DATA%20ANALYSIS-0EA5E9?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/EDA-14B8A6?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/FEATURE%20ENGINEERING-6366F1?style=for-the-badge"/>
@@ -66,7 +71,7 @@ My work sits around **Python, data, machine learning, model development, and pro
 
 ---
 
-## 🚀 WHAT I’VE BEEN BUILDING
+## 🚀 SELECTED WORK
 
 <div align="center">
 
@@ -76,26 +81,26 @@ My work sits around **Python, data, machine learning, model development, and pro
 
 ### 🏠 HOUSE PRICE PREDICTION
 
-**Structured data → preprocessing → regression → prediction**
+**Regression · Structured Data · Preprocessing**
 
-A practical machine-learning project built around preparing structured data and training a regression model for house-price prediction.
+A practical ML project for predicting house prices, covering data preparation, missing-value handling, categorical encoding, train/test splitting, and regression modeling.
 
 `Python` `Pandas` `NumPy` `Scikit-learn`
 
-<a href="https://github.com/chandusriii/house_price_prediction">VIEW PROJECT →</a>
+<a href="https://github.com/chandusriii/house_price_prediction"><b>VIEW PROJECT →</b></a>
 
 </td>
 <td width="50%" valign="top">
 
 ### ❤️ HEART DISEASE PREDICTION
 
-**Features → preprocessing → logistic regression**
+**Classification · Logistic Regression · Evaluation**
 
-A supervised-learning project exploring classification with patient-related features.
+A supervised-learning project that explores a classification workflow using patient-related features and logistic regression.
 
 `Python` `Pandas` `Scikit-learn`
 
-<a href="https://github.com/chandusriii/Heart-Disease-Prediction-Logistic-Regression">VIEW PROJECT →</a>
+<a href="https://github.com/chandusriii/Heart-Disease-Prediction-Logistic-Regression"><b>VIEW PROJECT →</b></a>
 
 </td>
 </tr>
@@ -104,26 +109,26 @@ A supervised-learning project exploring classification with patient-related feat
 
 ### 🌸 IRIS FLOWER CLASSIFICATION
 
-**Dataset → learning → classification → prediction**
+**Supervised Learning · Classification**
 
-A focused project for strengthening the fundamentals of supervised machine learning.
+A focused machine-learning build for learning the complete path from dataset to prediction.
 
 `Python` `Pandas` `Scikit-learn`
 
-<a href="https://github.com/chandusriii/iris-flower-ml-classification">VIEW PROJECT →</a>
+<a href="https://github.com/chandusriii/iris-flower-ml-classification"><b>VIEW PROJECT →</b></a>
 
 </td>
 <td width="50%" valign="top">
 
 ### 🧠 MACHINE LEARNING FROM SCRATCH
 
-**Concept → implementation → experimentation → intuition**
+**Algorithms · Fundamentals · Implementation**
 
-A learning workspace for understanding machine-learning ideas beyond treating algorithms as black boxes.
+A learning workspace for understanding machine-learning concepts through implementation instead of treating algorithms as black boxes.
 
 `Python` `Algorithms` `ML Fundamentals`
 
-<a href="https://github.com/chandusriii/machine-learning-from-scratch">VIEW PROJECT →</a>
+<a href="https://github.com/chandusriii/machine-learning-from-scratch"><b>VIEW PROJECT →</b></a>
 
 </td>
 </tr>
@@ -133,28 +138,52 @@ A learning workspace for understanding machine-learning ideas beyond treating al
 
 ---
 
-## 🔬 HOW I APPROACH A ML PROBLEM
+## ⚡ WHAT I LIKE BUILDING
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/01%20UNDERSTAND-22D3EE?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/02%20EXPLORE-14B8A6?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/03%20PREPARE-6366F1?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/04%20TRAIN-7C3AED?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/05%20EVALUATE-EC4899?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/06%20IMPROVE-F97316?style=for-the-badge"/>
+<table>
+<tr>
+<td align="center" width="25%">
 
-<br/><br/>
+### 🤖
+**ML MODELS**
 
-`problem framing` → `data exploration` → `preprocessing` → `modeling` → `evaluation` → `iteration`
+Learning from data
+
+</td>
+<td align="center" width="25%">
+
+### 📊
+**DATA SYSTEMS**
+
+Turning raw data into insight
+
+</td>
+<td align="center" width="25%">
+
+### 🧩
+**AI APPLICATIONS**
+
+Connecting models to useful software
+
+</td>
+<td align="center" width="25%">
+
+### ⚙️
+**ENGINEERING**
+
+Making solutions practical
+
+</td>
+</tr>
+</table>
 
 </div>
 
-The part I enjoy most is the iteration: finding what did not work, understanding why, and using that information to make the next version better.
-
 ---
 
-## 📈 WHAT I’M LEARNING NEXT
+## 🔭 CURRENT DIRECTION
 
 <div align="center">
 
@@ -168,55 +197,11 @@ The part I enjoy most is the iteration: finding what did not work, understanding
 
 </div>
 
-These are **learning directions**, not claims of production experience.
+I’m steadily moving from **learning individual models** toward understanding how **AI features, APIs, data pipelines, and deployment** come together in real applications.
 
 ---
 
-## 🐈 THE LAB ASSISTANT
-
-<div align="center">
-
-<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="330" alt="Cat sitting at a computer animation"/>
-
-### THE ONLY TEAM MEMBER WHO DOESN’T READ THE ERROR MESSAGE
-
-</div>
-
-```text
-09:00  → open IDE
-10:15  → load dataset
-11:30  → train model
-11:31  → unexpected result
-11:40  → inspect data
-12:05  → find the issue
-12:06  → fix the pipeline
-12:07  → cat appears
-12:08  → keyboard unavailable
-12:20  → coffee
-12:45  → run experiment again
-```
-
-> 🐾 **Lab rule:** every model gets tested. Every keyboard gets inspected by the cat.
-
----
-
-## 🔭 WHAT’S NEXT
-
-<div align="center">
-
-### **BUILD BETTER MODELS. BUILD BETTER SYSTEMS.**
-
-`LEARN` → `BUILD` → `TEST` → `DEBUG` → `IMPROVE`
-
-<br/><br/>
-
-I’m working toward becoming an engineer who can take an AI idea from **problem definition to a reliable working system**.
-
-</div>
-
----
-
-## 🤝 LET’S CONNECT
+## 💬 LET’S CONNECT
 
 <div align="center">
 
@@ -224,27 +209,23 @@ I’m working toward becoming an engineer who can take an AI idea from **problem
 <img src="https://img.shields.io/badge/GITHUB-EXPLORE%20MY%20WORK-18181B?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<!-- Replace this with your actual LinkedIn profile URL -->
+<!-- Replace this with your real LinkedIn URL -->
 <a href="https://www.linkedin.com/">
 <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-### ⚡ DATA · CODE · MODELS · CURIOSITY
+### **BUILD · LEARN · EXPERIMENT · ENGINEER**
 
 </div>
+
+---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:09090B,25:06B6D4,50:7C3AED,75:EC4899,100:F97316&height=140&section=footer&animation=twinkling" alt="Animated colorful footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,25:06B6D4,50:7C3AED,75:EC4899,100:F59E0B&height=140&section=footer&animation=twinkling" alt="Animated colorful footer"/>
+
+### ⚡ DATA · CODE · MODELS · IDEAS
 
 </div>
-
-<!--
-CUSTOMIZATION
-- Replace the LinkedIn URL with your real profile.
-- Replace the developer GIF and cat GIF later with your own visual assets.
-- Add new projects to the WHAT I’VE BEEN BUILDING section.
-- Keep LEARNING NEXT limited to technologies you are actively learning.
--->
