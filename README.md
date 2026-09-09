@@ -1,47 +1,44 @@
 <div align="center">
 
-<h1>CHANDU SRI</h1>
+# CHANDU SRI
 
-<h3>AI / ML ENGINEER</h3>
+### AI / ML ENGINEER
 
-<p><strong>Building intelligent products where data, machine learning, and software engineering meet.</strong></p>
+**I build practical AI solutions where data, machine learning, and software meet.**
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=18&pause=1100&color=60A5FA&center=true&vCenter=true&width=860&lines=AI+%2F+ML+ENGINEERING;FROM+DATA+TO+MODELS+TO+PRODUCTS;BUILDING+PRACTICAL+INTELLIGENT+SOLUTIONS" alt="Animated AI and ML engineering introduction" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=17&pause=1200&color=2563EB&center=true&vCenter=true&width=780&lines=BUILDING+WITH+DATA+%26+CODE;MACHINE+LEARNING+%C2%B7+PYTHON+%C2%B7+AI;TURNING+IDEAS+INTO+WORKING+SOLUTIONS" alt="Animated AI ML introduction" />
 
-<br><br>
+</div>
 
-<a href="https://github.com/chandusriii"><strong>GitHub</strong></a>
-&nbsp;&nbsp;·&nbsp;&nbsp;
-<a href="https://www.linkedin.com/"><strong>LinkedIn</strong></a>
+<br>
+
+<div align="center">
+
+`ARTIFICIAL INTELLIGENCE` &nbsp; `MACHINE LEARNING` &nbsp; `PYTHON` &nbsp; `DATA`
 
 </div>
 
 ---
 
-## ABOUT
+## PROFILE
 
-I’m **Chandu Sri**, focused on building a strong career in **AI/ML engineering** through practical projects, experimentation, and continuous improvement.
+I’m **Chandu Sri**, an **AI/ML Engineer** focused on building practical machine-learning solutions and strengthening the engineering behind them.
 
-I work primarily with **Python, data, and machine learning**, taking problems from understanding and preparation to model development, evaluation, and iteration.
+My work starts with a problem, moves through data and experimentation, and ends with a solution that can be understood, evaluated, and improved.
 
-I’m especially interested in the engineering layer around AI: making solutions **useful, measurable, and ready to evolve**.
-
-> **Build with clarity. Learn through experimentation. Engineer for real use.**
+I’m particularly interested in the space between **machine learning and real software** — turning models and insights into useful applications.
 
 ---
 
 ## TECHNOLOGY
 
-### AI / MACHINE LEARNING
-
+### AI / ML
 `Python` · `NumPy` · `Pandas` · `Scikit-learn` · `EDA` · `Feature Engineering` · `Regression` · `Classification` · `Model Evaluation`
 
 ### ENGINEERING
-
 `Git` · `GitHub` · `VS Code` · `Data Processing` · `Model Development` · `Problem Solving`
 
-### BUILDING TOWARD
-
+### EXPLORING
 `Deep Learning` · `NLP` · `Generative AI` · `LLM Applications` · `MLOps` · `APIs` · `Deployment`
 
 <div align="center">
@@ -54,92 +51,86 @@ I’m especially interested in the engineering layer around AI: making solutions
 
 ## SELECTED WORK
 
-### 01 · HOUSE PRICE PREDICTION
+### 01 — HOUSE PRICE PREDICTION
 
-**Predictive ML / Regression / Structured Data**
+**Predictive ML · Regression · Structured Data**
 
 A practical machine-learning project covering data preparation, missing-value handling, categorical encoding, train/test preparation, and regression modeling.
 
-**TECHNOLOGY**  
-`Python` `Pandas` `NumPy` `Scikit-learn`
+**Stack:** `Python` `Pandas` `NumPy` `Scikit-learn`
 
-**EXPLORE** → [Repository](https://github.com/chandusriii/house_price_prediction)
+[EXPLORE PROJECT ↗](https://github.com/chandusriii/house_price_prediction)
 
----
+<br>
 
-### 02 · HEART DISEASE PREDICTION
+### 02 — HEART DISEASE PREDICTION
 
-**Predictive ML / Classification / Logistic Regression**
+**Predictive ML · Classification · Logistic Regression**
 
 A supervised-learning project built around patient-related features, preprocessing, classification, and evaluation.
 
-**TECHNOLOGY**  
-`Python` `Pandas` `Scikit-learn`
+**Stack:** `Python` `Pandas` `Scikit-learn`
 
-**EXPLORE** → [Repository](https://github.com/chandusriii/Heart-Disease-Prediction-Logistic-Regression)
+[EXPLORE PROJECT ↗](https://github.com/chandusriii/Heart-Disease-Prediction-Logistic-Regression)
 
----
+<br>
 
-### 03 · IRIS FLOWER CLASSIFICATION
+### 03 — IRIS FLOWER CLASSIFICATION
 
-**Machine Learning / Classification**
+**Machine Learning · Classification · Prediction**
 
-A focused implementation for building confidence across the complete path from dataset preparation to prediction.
+A focused implementation for working through the complete path from dataset preparation to model-based prediction.
 
-**TECHNOLOGY**  
-`Python` `Pandas` `Scikit-learn`
+**Stack:** `Python` `Pandas` `Scikit-learn`
 
-**EXPLORE** → [Repository](https://github.com/chandusriii/iris-flower-ml-classification)
+[EXPLORE PROJECT ↗](https://github.com/chandusriii/iris-flower-ml-classification)
 
----
+<br>
 
-### 04 · MACHINE LEARNING FROM SCRATCH
+### 04 — MACHINE LEARNING FROM SCRATCH
 
-**Algorithms / Fundamentals / Implementation**
+**Algorithms · Fundamentals · Implementation**
 
-A hands-on learning repository for understanding machine-learning ideas through implementation and experimentation.
+A hands-on workspace for understanding machine-learning concepts through implementation and experimentation.
 
-**TECHNOLOGY**  
-`Python` `Algorithms` `ML Fundamentals`
+**Stack:** `Python` `Algorithms` `ML Fundamentals`
 
-**EXPLORE** → [Repository](https://github.com/chandusriii/machine-learning-from-scratch)
+[EXPLORE PROJECT ↗](https://github.com/chandusriii/machine-learning-from-scratch)
 
 ---
 
-## WHAT I LIKE BUILDING
+## WHAT I’M BUILDING TOWARD
 
-**DATA PRODUCTS**  
-Turning raw data into structured information and useful features.
+**AI Applications** — connecting machine-learning capabilities with useful software.
 
-**MACHINE LEARNING SYSTEMS**  
-Building models that can be evaluated, improved, and applied to real problems.
+**Intelligent Systems** — moving from individual models toward stronger end-to-end solutions.
 
-**AI APPLICATIONS**  
-Exploring how machine intelligence becomes part of useful software.
-
-**ENGINEERING WORKFLOWS**  
-Connecting experiments, models, and software into practical solutions.
+**AI Engineering** — understanding how data, inference, APIs, testing, and deployment fit together.
 
 ---
 
-## AI DIRECTION
+## ENGINEERING PRINCIPLES
 
-I’m especially interested in the evolution from **individual ML models → AI applications → end-to-end intelligent systems**.
+**01** — Start with the problem, not the model.
 
-`Machine Learning` · `Deep Learning` · `NLP` · `Generative AI` · `LLM Applications` · `AI Engineering`
+**02** — Let the data shape the decision.
+
+**03** — Build a clear baseline before adding complexity.
+
+**04** — Measure the result and learn from failure.
+
+**05** — Improve the system, not just the score.
 
 ---
 
 <div align="center">
 
-## LET’S BUILD SOMETHING INTELLIGENT
+## LET’S BUILD
 
-<a href="https://github.com/chandusriii"><strong>EXPLORE MY WORK</strong></a>
+**AI · DATA · SOFTWARE · IMPACT**
+
+<a href="https://github.com/chandusriii"><strong>EXPLORE GITHUB</strong></a>
 &nbsp;&nbsp;·&nbsp;&nbsp;
-<a href="https://www.linkedin.com/"><strong>CONNECT</strong></a>
-
-<br><br>
-
-<sub>AI · MACHINE LEARNING · DATA · SOFTWARE ENGINEERING</sub>
+<a href="https://www.linkedin.com/"><strong>LINKEDIN</strong></a>
 
 </div>
