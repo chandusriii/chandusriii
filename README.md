@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:070B14,18:0EA5E9,42:4F46E5,68:9333EA,86:EC4899,100:F59E0B&height=245&section=header&text=CHANDU%20SRI&fontSize=60&fontColor=FFFFFF&animation=twinkling&fontAlignY=38&desc=AI%20%2F%20ML%20ENGINEER%20%7C%20PYTHON%20%7C%20MACHINE%20LEARNING&descAlignY=64&descSize=18" alt="Chandu Sri AI and ML Engineer header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,18:0EA5E9,42:4F46E5,68:8B5CF6,86:EC4899,100:F59E0B&height=250&section=header&text=CHANDU%20SRI&fontSize=62&fontColor=FFFFFF&animation=twinkling&fontAlignY=38&desc=AI%20%2F%20ML%20ENGINEER%20%7C%20BUILDING%20INTELLIGENT%20SOFTWARE&descAlignY=64&descSize=18" alt="Animated Chandu Sri AI ML Engineer header"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=850&color=67E8F9&center=true&vCenter=true&width=920&lines=BUILDING+WITH+DATA.+THINKING+IN+MODELS.;PYTHON+%7C+MACHINE+LEARNING+%7C+AI;TURNING+PROBLEMS+INTO+WORKING+SOLUTIONS;LEARN.+BUILD.+MEASURE.+IMPROVE." alt="Animated AI engineering tagline"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&pause=900&color=67E8F9&center=true&vCenter=true&width=950&lines=AI+%2F+ML+ENGINEER;PYTHON+%7C+MACHINE+LEARNING+%7C+DATA;TURNING+PROBLEMS+INTO+MEASURABLE+SOLUTIONS;BUILDING+WITH+DATA%2C+MODELS%2C+AND+CODE" alt="Animated AI ML engineering introduction"/>
 
 <br/>
 
-<img src="https://img.shields.io/badge/AI%20%2F%20ML-6D28D9?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/PYTHON-0EA5E9?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/MACHINE%20LEARNING-DB2777?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/BUILDING%20IN%20PUBLIC-F59E0B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ARTIFICIAL%20INTELLIGENCE-111827?style=for-the-badge&logo=openai&logoColor=67E8F9"/>
+<img src="https://img.shields.io/badge/MACHINE%20LEARNING-312E81?style=for-the-badge&logo=scikit-learn&logoColor=F5D0FE"/>
+<img src="https://img.shields.io/badge/PYTHON-0F766E?style=for-the-badge&logo=python&logoColor=FDE68A"/>
+<img src="https://img.shields.io/badge/DATA%20%7C%20MODELS%20%7C%20ENGINEERING-9D174D?style=for-the-badge"/>
 
 <br/><br/>
 
@@ -19,34 +19,19 @@
 
 ---
 
-## 👋 ABOUT
+## 👨‍💻 ABOUT
 
-<table>
-<tr>
-<td width="62%" valign="top">
+### Building practical AI with an engineering mindset.
 
-I’m **Chandu Sri**, focused on building a strong foundation in **Artificial Intelligence and Machine Learning** through practical development, experimentation, and problem solving.
+I’m **Chandu Sri**, an **AI/ML Engineer** focused on solving problems with **Python, data, and machine-learning techniques**.
 
-My work is centered around **Python, data preparation, machine-learning models, evaluation, and turning technical concepts into working projects**.
+I enjoy turning an ambiguous problem into a structured workflow — understanding the data, building a strong baseline, evaluating the result, and iterating until the solution becomes more useful.
 
-I care about understanding the full path from **problem → data → model → result** rather than treating the model as a black box.
+<div align="center">
 
-</td>
-<td width="38%" valign="middle" align="center">
+`PROBLEM` → `DATA` → `MODEL` → `EVALUATE` → `IMPROVE`
 
-```text
-AI / ML
-   │
-   ├── Python
-   ├── Data
-   ├── Models
-   ├── Evaluation
-   └── Engineering
-```
-
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
@@ -54,26 +39,31 @@ AI / ML
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,git,github,vscode&perline=4" alt="Python Git GitHub VS Code"/>
+<img src="https://skillicons.dev/icons?i=python,git,github,vscode" alt="Python Git GitHub and VS Code"/>
 
 <br/><br/>
 
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-<img src="https://img.shields.io/badge/Data%20Analysis-0891B2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/EDA-0F766E?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Feature%20Engineering-4F46E5?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Supervised%20Learning-7C3AED?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Regression-DB2777?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Classification-E11D48?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Model%20Evaluation-F59E0B?style=for-the-badge"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/DATA%20ANALYSIS-0EA5E9?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/EDA-14B8A6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/FEATURE%20ENGINEERING-6366F1?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SUPERVISED%20LEARNING-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/REGRESSION-DB2777?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/CLASSIFICATION-E11D48?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MODEL%20EVALUATION-F59E0B?style=for-the-badge"/>
 
 </div>
 
 ---
 
-## 🚀 FEATURED WORK
+## 🚀 SELECTED WORK
+
+<div align="center">
 
 <table>
 <tr>
@@ -81,26 +71,28 @@ AI / ML
 
 ### 🏠 HOUSE PRICE PREDICTION
 
-**Machine Learning · Regression · Data Preprocessing**
+**Regression · Structured Data · Preprocessing**
 
-A practical regression project covering data cleaning, missing-value handling, categorical encoding, train/test preparation, and model building.
+A practical regression solution covering data preparation, missing-value handling, categorical encoding, train/test splitting, and prediction.
 
+**Core stack**  
 `Python` `Pandas` `NumPy` `Scikit-learn`
 
-<a href="https://github.com/chandusriii/house_price_prediction"><b>VIEW REPOSITORY →</b></a>
+<a href="https://github.com/chandusriii/house_price_prediction"><b>VIEW PROJECT →</b></a>
 
 </td>
 <td width="50%" valign="top">
 
 ### ❤️ HEART DISEASE PREDICTION
 
-**Machine Learning · Classification · Logistic Regression**
+**Classification · Logistic Regression**
 
-A supervised-learning project focused on building a classification workflow from patient-related features.
+A supervised-learning project exploring a complete classification workflow using patient-related features.
 
+**Core stack**  
 `Python` `Pandas` `Scikit-learn`
 
-<a href="https://github.com/chandusriii/Heart-Disease-Prediction-Logistic-Regression"><b>VIEW REPOSITORY →</b></a>
+<a href="https://github.com/chandusriii/Heart-Disease-Prediction-Logistic-Regression"><b>VIEW PROJECT →</b></a>
 
 </td>
 </tr>
@@ -109,13 +101,14 @@ A supervised-learning project focused on building a classification workflow from
 
 ### 🌸 IRIS FLOWER CLASSIFICATION
 
-**Supervised Learning · Classification · Prediction**
+**Supervised Learning · Classification**
 
-A focused machine-learning project for strengthening the fundamentals of classification and prediction.
+A focused ML build for strengthening the fundamentals of dataset preparation, model training, and prediction.
 
+**Core stack**  
 `Python` `Pandas` `Scikit-learn`
 
-<a href="https://github.com/chandusriii/iris-flower-ml-classification"><b>VIEW REPOSITORY →</b></a>
+<a href="https://github.com/chandusriii/iris-flower-ml-classification"><b>VIEW PROJECT →</b></a>
 
 </td>
 <td width="50%" valign="top">
@@ -124,92 +117,67 @@ A focused machine-learning project for strengthening the fundamentals of classif
 
 **Algorithms · Fundamentals · Implementation**
 
-A learning-focused repository for understanding machine-learning concepts through implementation and experimentation.
+A learning repository focused on understanding machine-learning concepts through implementation and experimentation.
 
+**Core stack**  
 `Python` `Algorithms` `ML Fundamentals`
 
-<a href="https://github.com/chandusriii/machine-learning-from-scratch"><b>VIEW REPOSITORY →</b></a>
+<a href="https://github.com/chandusriii/machine-learning-from-scratch"><b>VIEW PROJECT →</b></a>
 
 </td>
 </tr>
 </table>
 
+</div>
+
 ---
 
-## ⚙️ WHAT I LIKE BUILDING
+## 🎯 ENGINEERING INTERESTS
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/DATA%20DRIVEN%20SOLUTIONS-0EA5E9?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/MACHINE%20LEARNING%20APPLICATIONS-7C3AED?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/PYTHON%20AUTOMATION-14B8A6?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/INTELLIGENT%20SOFTWARE-EC4899?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/EXPERIMENTAL%20AI-F59E0B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/PROBLEM%20SOLVING-0EA5E9?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/DATA%20DRIVEN%20DEVELOPMENT-14B8A6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MODEL%20DEVELOPMENT-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI%20APPLICATIONS-EC4899?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/REPRODUCIBLE%20EXPERIMENTS-F59E0B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/CONTINUOUS%20IMPROVEMENT-2563EB?style=for-the-badge"/>
 
 </div>
 
 <br/>
 
-<div align="center">
-
-**Clean data. Strong baselines. Measurable experiments. Better iterations.**
-
-</div>
+> **Build with clarity. Measure with evidence. Improve with intent.**
 
 ---
 
-## 🔬 ENGINEERING FOCUS
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### DATA → MODEL
-
-`Data Cleaning` · `EDA` · `Feature Engineering`  
-`Train/Test Splits` · `Regression` · `Classification`  
-`Model Evaluation` · `Experimentation`
-
-</td>
-<td width="50%" valign="top">
-
-### MODEL → APPLICATION
-
-`Python` · `Git/GitHub` · `APIs`  
-`Backend Integration` · `Deployment Concepts`  
-`AI Application Development`
-
-</td>
-</tr>
-</table>
-
----
-
-## 📍 CURRENT DIRECTION
+## 🔭 NEXT FOCUS
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/DEEP%20LEARNING-7C3AED?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/NLP-059669?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/GENERATIVE%20AI-DB2777?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LLM%20APPLICATIONS-0891B2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/MLOps-F97316?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/DEEP%20LEARNING-6D28D9?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/NLP-047857?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/GENERATIVE%20AI-9D174D?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LLM%20APPLICATIONS-0E7490?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MLOps-C2410C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/APIs-1D4ED8?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/DEPLOYMENT-374151?style=for-the-badge"/>
 
 </div>
 
-I’m continuing toward the engineering layer beyond individual models: **reproducibility, APIs, deployment, and AI applications**.
+My goal is to grow beyond individual models into **reliable AI applications** — connecting data, models, software, APIs, and deployment into solutions that are practical and measurable.
 
 ---
 
-## 🤝 LET’S CONNECT
+## 🤝 CONNECT
 
 <div align="center">
 
 <a href="https://github.com/chandusriii">
-<img src="https://img.shields.io/badge/GITHUB-VIEW%20MY%20WORK-18181B?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GITHUB-EXPLORE%20MY%20WORK-18181B?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<!-- Replace with your actual LinkedIn profile URL -->
+<!-- TODO: Replace with your real LinkedIn profile URL -->
 <a href="https://www.linkedin.com/">
 <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
@@ -224,15 +192,8 @@ I’m continuing toward the engineering layer beyond individual models: **reprod
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:070B14,20:06B6D4,45:4F46E5,70:9333EA,88:EC4899,100:F59E0B&height=145&section=footer&animation=twinkling" alt="Animated colorful footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,20:06B6D4,45:4F46E5,70:8B5CF6,88:EC4899,100:F59E0B&height=150&section=footer&animation=twinkling" alt="Animated colorful footer"/>
 
 ### ⚡ DATA · CODE · INTELLIGENCE
 
 </div>
-
-<!--
-CUSTOMIZATION:
-- Replace the LinkedIn URL with your actual profile.
-- Add your strongest future projects to FEATURED WORK.
-- Move technologies from CURRENT DIRECTION into AI / ML STACK only when you can confidently claim them.
--->
