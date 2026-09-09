@@ -19,127 +19,105 @@
 
 <div align="center">
 
-> ## **I don't just want to run models. I want to understand, build, test, and improve the systems around them.**
+> ## **I learn by building — turning data, ideas, and experiments into working ML solutions.**
 
 </div>
 
 ---
 
-# 🧪 `01 / ENTER THE LAB`
+# 🧭 `01 / THE STORY STARTS HERE`
 
-<div align="center">
+<table>
+<tr>
+<td width="60%" valign="top">
 
-```text
-┌──────────────────────────────────────────────────────────────────────┐
-│  chandu@ai-lab:~$ boot --engineering-mode                         │
-│                                                                      │
-│  [ OK ] python runtime                                               │
-│  [ OK ] data pipeline                                                │
-│  [ OK ] curiosity                                                    │
-│  [ OK ] experimentation                                               │
-│  [ OK ] machine-learning mindset                                     │
-│  [ !!! ] office cat detected 🐈                                      │
-│                                                                      │
-│  STATUS    : BUILDING                                                │
-│  OBJECTIVE : turn problems into intelligent solutions                │
-│                                                                      │
-│  chandu@ai-lab:~$ ./make-it-useful                                  │
-│  ████████████████████████████████████████████████████████ 100%      │
-└──────────────────────────────────────────────────────────────────────┘
-```
+### `chandu@ai-lab:~$ whoami`
 
-</div>
+**AI/ML Engineer in the making, builder by practice.**
 
-I’m **Chandu Sri**, building my path toward **AI/ML engineering** through hands-on projects, experimentation, and a strong focus on fundamentals.
+I’m interested in the engineering behind intelligent products — understanding the problem, preparing the data, building a model, measuring what happened, and improving the result.
 
-I enjoy the journey from a messy question to a working solution:
+My projects are where I turn concepts into something tangible. The goal is simple: **learn deeply, build honestly, and keep moving toward stronger AI engineering.**
 
-<div align="center">
+</td>
+<td width="40%" valign="middle" align="center">
 
-**PROBLEM → DATA → FEATURES → MODEL → EVALUATION → ITERATION → SYSTEM**
+<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="280" alt="Developer working at a computer"/>
 
-</div>
-
-The goal is not simply to make a model run. The goal is to understand **why it works, where it fails, and how it can become better**.
+</td>
+</tr>
+</table>
 
 ---
 
-# 🧭 `02 / THE ENGINEERING JOURNEY`
+# 💡 `02 / FROM CODE TO INTELLIGENCE`
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/CODE-22D3EE?style=for-the-badge"/>
+&nbsp;→&nbsp;
+<img src="https://img.shields.io/badge/DATA-14B8A6?style=for-the-badge"/>
+&nbsp;→&nbsp;
+<img src="https://img.shields.io/badge/PATTERNS-6366F1?style=for-the-badge"/>
+&nbsp;→&nbsp;
+<img src="https://img.shields.io/badge/MODELS-7C3AED?style=for-the-badge"/>
+&nbsp;→&nbsp;
+<img src="https://img.shields.io/badge/DECISIONS-EC4899?style=for-the-badge"/>
+
+</div>
+
+<br/>
 
 <table>
 <tr>
 <td width="25%" align="center">
 
-## `01`
-### 💻 CODE
-
-Python
-
-Logic
-
-DSA
+### 01
+**LEARN**  
+Python  
+Algorithms  
+Math
 
 </td>
 <td width="25%" align="center">
 
-## `02`
-### 📊 DATA
-
-Cleaning
-
-EDA
-
+### 02
+**EXPLORE**  
+Data  
+EDA  
 Features
 
 </td>
 <td width="25%" align="center">
 
-## `03`
-### 🧠 LEARN
-
-Algorithms
-
-Models
-
+### 03
+**BUILD**  
+Models  
+Experiments  
 Evaluation
 
 </td>
 <td width="25%" align="center">
 
-## `04`
-### ⚙️ ENGINEER
-
-Systems
-
-APIs
-
+### 04
+**EVOLVE**  
+Systems  
+APIs  
 Deployment
 
 </td>
 </tr>
 </table>
 
-<div align="center">
-
-<img src="https://img.shields.io/badge/CODE-22D3EE?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/DATA-14B8A6?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/MODELS-8B5CF6?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/SYSTEMS-EC4899?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/IMPACT-F97316?style=for-the-badge"/>
-
-</div>
-
 ---
 
-# 🧠 `03 / AI ENGINEER MODE`
+# 🧠 `03 / MY AI TOOLBOX`
 
 <div align="center">
-
-### CORE TOOLCHAIN
 
 <img src="https://skillicons.dev/icons?i=python,git,github,vscode" alt="Python Git GitHub and VS Code"/>
 
-<br/>
+<br/><br/>
 
 <img src="https://img.shields.io/badge/NUMPY-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 <img src="https://img.shields.io/badge/PANDAS-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
@@ -147,10 +125,9 @@ Deployment
 
 <br/><br/>
 
-### ENGINEERING VOCABULARY
-
-<img src="https://img.shields.io/badge/DATA%20WRANGLING-0EA5E9?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/EDA-14B8A6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/PYTHON%20ENGINEERING-0EA5E9?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/DATA%20WRANGLING-14B8A6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/EDA-06B6D4?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/FEATURE%20ENGINEERING-6366F1?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/SUPERVISED%20LEARNING-7C3AED?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/REGRESSION-E11D48?style=for-the-badge"/>
@@ -160,26 +137,15 @@ Deployment
 
 </div>
 
-### 🌌 THE NEXT FRONTIER
+### 🌌 Learning frontier
 
-<div align="center">
+`Deep Learning` · `NLP` · `Generative AI` · `LLMs` · `Computer Vision` · `MLOps` · `APIs` · `Docker` · `Cloud`
 
-<img src="https://img.shields.io/badge/DEEP%20LEARNING-FF4F8B?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/GENERATIVE%20AI-7C3AED?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LLM%20ENGINEERING-06B6D4?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/NLP-10B981?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/COMPUTER%20VISION-EF4444?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/MLOps-F97316?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/APIs%20%26%20BACKEND-2563EB?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/DOCKER-0284C7?style=for-the-badge"/>
-
-</div>
-
-> **Exploring next** = areas I’m actively learning toward. They are not presented as professional production experience.
+> These are areas I’m building toward, not claims of production experience.
 
 ---
 
-# 🚀 `04 / PROJECTS LAB`
+# 🔥 `04 / BUILT, NOT JUST STUDIED`
 
 <table>
 <tr>
@@ -187,40 +153,26 @@ Deployment
 
 ### 🏠 HOUSE PRICE PREDICTION
 
-**REGRESSION / STRUCTURED DATA**
+**A regression pipeline from raw data to prediction.**
 
-`RAW DATA`
-→ `CLEANING`
-→ `ENCODING`
-→ `TRAINING`
-→ `PREDICTION`
+`clean` → `encode` → `train` → `predict`
 
-A practical machine-learning pipeline covering missing-value handling, categorical features, train/test preparation, and regression modeling.
+Python · Pandas · NumPy · Scikit-learn
 
-**STACK**  
-`Python` `Pandas` `NumPy` `Scikit-learn`
-
-**[ VIEW BUILD → ](https://github.com/chandusriii/house_price_prediction)**
+**[ VIEW REPOSITORY → ](https://github.com/chandusriii/house_price_prediction)**
 
 </td>
 <td width="50%" valign="top">
 
 ### ❤️ HEART DISEASE PREDICTION
 
-**CLASSIFICATION / LOGISTIC REGRESSION**
+**A classification workflow using logistic regression.**
 
-`FEATURES`
-→ `PREPROCESS`
-→ `TRAIN`
-→ `CLASSIFY`
-→ `EVALUATE`
+`features` → `preprocess` → `classify` → `evaluate`
 
-A supervised-learning project focused on using patient-related features in a classification workflow.
+Python · Pandas · Scikit-learn
 
-**STACK**  
-`Python` `Pandas` `Scikit-learn`
-
-**[ VIEW BUILD → ](https://github.com/chandusriii/Heart-Disease-Prediction-Logistic-Regression)**
+**[ VIEW REPOSITORY → ](https://github.com/chandusriii/Heart-Disease-Prediction-Logistic-Regression)**
 
 </td>
 </tr>
@@ -229,187 +181,118 @@ A supervised-learning project focused on using patient-related features in a cla
 
 ### 🌸 IRIS FLOWER CLASSIFICATION
 
-**SUPERVISED LEARNING / CLASSIFICATION**
+**A focused supervised-learning build.**
 
-A focused ML build for strengthening the full path from dataset to prediction.
+`dataset` → `learn` → `predict`
 
-**STACK**  
-`Python` `Pandas` `Scikit-learn`
+Python · Pandas · Scikit-learn
 
-**[ VIEW BUILD → ](https://github.com/chandusriii/iris-flower-ml-classification)**
+**[ VIEW REPOSITORY → ](https://github.com/chandusriii/iris-flower-ml-classification)**
 
 </td>
 <td width="50%" valign="top">
 
 ### 🧠 MACHINE LEARNING FROM SCRATCH
 
-**ALGORITHMS / IMPLEMENTATION / INTUITION**
+**A learning lab for understanding ML beyond the black box.**
 
-A learning lab for understanding machine-learning concepts by implementing ideas step by step rather than treating models as black boxes.
+`theory` → `implementation` → `intuition`
 
-**STACK**  
-`Python` `Algorithms` `ML Fundamentals`
+Python · Algorithms · ML Fundamentals
 
-**[ VIEW BUILD → ](https://github.com/chandusriii/machine-learning-from-scratch)**
+**[ VIEW REPOSITORY → ](https://github.com/chandusriii/machine-learning-from-scratch)**
 
 </td>
 </tr>
 </table>
 
-<div align="center">
-
-<img src="https://img.shields.io/badge/MORE%20INTELLIGENT%20BUILDS-IN%20PROGRESS-22D3EE?style=for-the-badge"/>
-
-</div>
-
 ---
 
-# 🔬 `05 / THE ML PIPELINE`
+# 🧪 `05 / INSIDE THE LAB`
 
 <div align="center">
 
 ```text
-┌────────────┐     ┌────────────┐     ┌────────────┐
-│  PROBLEM   │ ──→ │    DATA    │ ──→ │  FEATURES  │
-└────────────┘     └────────────┘     └─────┬──────┘
-                                            ↓
-                                      ┌────────────┐
-                                      │   MODEL    │
-                                      └─────┬──────┘
-                                            ↓
-                                      ┌────────────┐
-                                      │  MEASURE   │
-                                      └─────┬──────┘
-                                            ↓
-                                      ┌────────────┐
-                                      │  ITERATE   │
-                                      └─────┬──────┘
-                                            │
-                                            └───────────────↺
+┌──────────┐   ┌──────────┐   ┌───────────┐
+│ QUESTION │ → │   DATA   │ → │  FEATURES │
+└──────────┘   └──────────┘   └─────┬─────┘
+                                    ↓
+                              ┌─────────────┐
+                              │    MODEL    │
+                              └──────┬──────┘
+                                     ↓
+                              ┌─────────────┐
+                              │  EVALUATE   │
+                              └──────┬──────┘
+                                     ↓
+                              ┌─────────────┐
+                              │   IMPROVE   │
+                              └──────┬──────┘
+                                     │
+                                     └────────↺
 ```
 
 </div>
 
-### What I care about
+### The mindset behind the pipeline
 
-**Data quality.** Bad inputs produce bad learning.
-
-**Useful features.** Representation matters.
-
-**Baselines before complexity.** Start simple, learn, then improve.
-
-**Evaluation over assumptions.** Measure before declaring victory.
-
-**Iteration over perfection.** Every failed experiment contains information.
+**Curiosity** → ask better questions.  
+**Discipline** → keep experiments reproducible.  
+**Evidence** → trust measurements over assumptions.  
+**Iteration** → improve what the experiment teaches you.
 
 ---
 
-# 🐈 `06 / THE OFFICE CAT PROTOCOL`
+# 🐈 `06 / SOMEONE IS ALWAYS REVIEWING THE CODE`
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="320" alt="Cute cat at a computer"/>
+<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="320" alt="Cute cat using a computer"/>
 
-### **THE UNOFFICIAL AI LAB ASSISTANT**
+### MEET THE UNOFFICIAL AI LAB ASSISTANT
 
 </div>
 
 ```text
-08:45  → laptop open
-09:30  → dataset loaded
-11:00  → first experiment
-12:05  → model failed
-12:06  → inspect features
-12:40  → find the bug
-12:41  → fix the pipeline
-12:42  → cat enters the room
-12:43  → cat touches keyboard
-12:44  → mysterious new error
-12:45  → coffee
-13:00  → experiment #2
+08:45  boot system
+09:15  load dataset
+10:40  train baseline
+11:10  model breaks
+11:11  inspect the data
+11:45  find the real bug
+11:46  fix the pipeline
+11:47  cat appears
+11:48  keyboard becomes unavailable
+11:55  coffee
+12:20  experiment #2
+13:10  better result
 ```
 
-> **Lab Rule #01:** Don't trust the first result.
->
-> **Lab Rule #02:** Debug the data before blaming the model.
->
-> **Lab Rule #03:** Keep backups.
->
-> **Lab Rule #04:** Cats are not approved deployment tools.
+> The cat does not write the model. The cat does, however, strongly influence the debugging process.
 
 ---
 
-# 💻 `07 / ENGINEERING MINDSET`
-
-```python
-class ChanduSri:
-    role = "AI / ML Engineer"
-
-    objective = "build useful intelligent systems"
-
-    strengths = [
-        "Python",
-        "Machine Learning",
-        "Data-driven problem solving",
-        "Model development",
-        "Experimentation",
-    ]
-
-    principles = [
-        "understand the problem",
-        "respect the data",
-        "measure the model",
-        "learn from failure",
-        "iterate with intent",
-    ]
-
-    loop = "research -> build -> evaluate -> debug -> improve"
-```
-
-<div align="center">
-
-### **Build with curiosity. Engineer with discipline. Learn from every experiment.**
-
-</div>
-
----
-
-# 🔭 `08 / CURRENTLY IN THE LAB`
+# 🚧 `07 / CURRENTLY BUILDING`
 
 <div align="center">
 
 <img src="https://img.shields.io/badge/FOCUS-MACHINE%20LEARNING-312E81?style=for-the-badge&logo=scikitlearn&logoColor=FDE68A"/>
-<img src="https://img.shields.io/badge/BUILD-PRACTICAL%20AI%20PROJECTS-E11D48?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/EXPLORE-DEEP%20LEARNING-FF4F8B?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/EXPLORE-GENERATIVE%20AI-7C3AED?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/EXPLORE-NLP-10B981?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/EXPLORE-MLOps-F97316?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/EXPLORING-DEEP%20LEARNING-FF4F8B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/EXPLORING-GENERATIVE%20AI-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/EXPLORING-NLP-10B981?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/EXPLORING-MLOps-F97316?style=for-the-badge"/>
 
 </div>
 
 ```text
-CURRENT LOOP
-
-learn fundamentals
-      ↓
-build a small system
-      ↓
-measure behavior
-      ↓
-find weak points
-      ↓
-iterate
-      ↓
-understand more
+learn → build → test → break → debug → improve → repeat
 ```
 
-### North Star
-
-Move from **building individual ML models** toward **engineering reliable AI systems** — systems that are understandable, testable, measurable, improvable, and eventually deployable.
+The direction is clear: keep moving from **individual models** toward **reliable AI systems** that can be understood, evaluated, improved, and eventually deployed.
 
 ---
 
-# 📡 `09 / GITHUB ENGINEERING SIGNAL`
+# 📡 `08 / SIGNAL FROM THE LAB`
 
 <div align="center">
 
@@ -424,35 +307,13 @@ Move from **building individual ML models** toward **engineering reliable AI sys
 
 ---
 
-# 🐍 `10 / CONTRIBUTION TRAIL`
+# 🛰️ `09 / WHAT COMES NEXT`
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Animated GitHub contribution graph"/>
+### **More experiments. Better systems. Deeper AI.**
 
-</div>
-
----
-
-# 🚀 `11 / WHAT'S NEXT?`
-
-<div align="center">
-
-### **THE STORY IS STILL BEING WRITTEN.**
-
-```text
-IDEA
- ↓
-EXPERIMENT
- ↓
-MODEL
- ↓
-SYSTEM
- ↓
-IMPACT
-```
-
-### I’m building toward the kind of engineer who can take an AI idea from **concept → code → experiment → system**.
+I’m building toward work where **code + data + models + engineering** come together to solve useful problems.
 
 <br/>
 
@@ -460,16 +321,14 @@ IMPACT
 <img src="https://img.shields.io/badge/EXPLORE%20THE%20LAB-18181B?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
 </a>
 
-<!-- Replace the URL below with your actual LinkedIn profile. -->
+<!-- Replace with your actual LinkedIn profile -->
 <a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/CONNECT%20ON%20LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=FFFFFF"/>
 </a>
 
 <br/><br/>
 
-**DATA → MODELS → SYSTEMS → IMPACT**
-
-### 🐈 + 💻 + 🧠 = 🚀
+**BUILD · LEARN · EXPERIMENT · ENGINEER**
 
 </div>
 
@@ -477,15 +336,16 @@ IMPACT
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:09090B,25:06B6D4,50:7C3AED,75:EC4899,100:F97316&height=170&section=footer&animation=twinkling" alt="Animated colorful footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:09090B,25:06B6D4,50:7C3AED,75:EC4899,100:F97316&height=150&section=footer&animation=twinkling" alt="Animated colorful footer"/>
+
+### ⚡ DATA → MODELS → SYSTEMS → IMPACT
 
 </div>
 
 <!--
-CUSTOMIZATION NOTES
-- Replace the developer GIF and cat GIF with your preferred assets if you want a more personal story.
-- Replace the LinkedIn URL with your real profile.
-- Add new project cards as you build stronger AI/ML work.
-- Keep “Exploring Next” limited to technologies you are genuinely learning.
-- Essential profile information is written in normal text so it remains understandable without animations.
+CUSTOMIZE ONLY THESE ITEMS:
+- Replace the LinkedIn URL with your actual profile.
+- Replace the developer and cat GIFs with your own assets if you want a unique visual identity.
+- Add new projects to the PROJECTS LAB as you build them.
+- Keep the “Learning frontier” honest and move technologies into the core stack only when you are comfortable claiming them.
 -->
