@@ -1,134 +1,127 @@
 <div align="center">
 
-# CHANDU SRI
-### AI / ML ENGINEER
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=20&pause=1200&color=6EE7FF&center=true&vCenter=true&width=900&lines=CHANDU+SRI;AI+%2F+ML+ENGINEER;BUILDING+INTELLIGENT+PRODUCTS+WITH+DATA+%26+CODE" alt="Animated introduction" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=950&color=58A6FF&center=true&vCenter=true&width=820&lines=BUILDING+INTELLIGENT+SOFTWARE;PYTHON+%7C+MACHINE+LEARNING+%7C+DATA;TURNING+IDEAS+INTO+WORKING+SYSTEMS" alt="Animated AI engineering introduction" />
+### AI / ML Engineer
+
+**Turning data, models, and software into practical intelligent products.**
+
+[![GitHub](https://img.shields.io/badge/GitHub-111827?style=flat-square&logo=github&logoColor=white)](https://github.com/chandusriii)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
 
 </div>
 
-<br>
+---
 
-> **I build practical AI/ML solutions by combining data, models, and software engineering.**
+## ABOUT
 
-<br>
+I’m **Chandu Sri**, an AI/ML Engineer building a strong foundation in **Python, machine learning, data, and software engineering**.
 
-## 01 / PROFILE
+I enjoy taking a problem from **idea → data → model → useful application**, with a focus on practical experimentation, clear reasoning, and continuous improvement.
 
-**AI/ML Engineer focused on building useful things.**
-
-I work with **Python, data, and machine learning**, turning real problems into structured experiments, working models, and practical software. I’m interested in the engineering behind AI — not only training a model, but understanding the data, evaluating the result, and improving the system around it.
-
-**Focus:** Machine Learning · Data · Model Development · AI Applications · Software Engineering
+> **I’m not interested in making models look impressive. I’m interested in making them useful.**
 
 ---
 
-## 02 / TECHNOLOGY
+## TECHNOLOGY
+
+### AI / MACHINE LEARNING
+`Python` · `NumPy` · `Pandas` · `Scikit-learn` · `EDA` · `Feature Engineering` · `Regression` · `Classification` · `Model Evaluation`
+
+### ENGINEERING
+`Git` · `GitHub` · `VS Code` · `Problem Solving` · `Data Processing` · `Model Development`
+
+### EXPLORING
+`Deep Learning` · `NLP` · `Generative AI` · `LLM Applications` · `MLOps` · `APIs` · `Deployment`
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,git,github,vscode&perline=4" alt="Python, Git, GitHub and VS Code" />
-
-<br><br>
-
-`NumPy` · `Pandas` · `Scikit-learn` · `EDA` · `Feature Engineering`
-
-`Regression` · `Classification` · `Model Evaluation` · `Data Analysis`
+<img src="https://skillicons.dev/icons?i=python,numpy,pandas,sklearn,git,github,vscode&perline=7" alt="Python, NumPy, Pandas, Scikit-learn, Git, GitHub and VS Code" />
 
 </div>
 
 ---
 
-## 03 / SELECTED WORK
+## SELECTED WORK
 
-### HOUSE PRICE PREDICTION
-**Regression · Structured Data · Machine Learning**
+### 01 — House Price Prediction
 
-A practical ML project for predicting house prices through data preparation, missing-value handling, categorical encoding, train/test preparation, and regression modeling.
+**Predictive ML · Regression · Structured Data**
+
+A practical regression project covering data preparation, missing-value handling, categorical encoding, train/test preparation, and model development.
 
 `Python` `Pandas` `NumPy` `Scikit-learn`
 
-[VIEW PROJECT ↗](https://github.com/chandusriii/house_price_prediction)
+[**EXPLORE PROJECT ↗**](https://github.com/chandusriii/house_price_prediction)
 
 ---
 
-### HEART DISEASE PREDICTION
-**Classification · Logistic Regression · Supervised Learning**
+### 02 — Heart Disease Prediction
 
-A classification workflow built around patient-related features, preprocessing, model training, and evaluation.
+**Predictive ML · Classification · Logistic Regression**
+
+A supervised-learning project using patient-related features to build and evaluate a classification workflow.
 
 `Python` `Pandas` `Scikit-learn`
 
-[VIEW PROJECT ↗](https://github.com/chandusriii/Heart-Disease-Prediction-Logistic-Regression)
+[**EXPLORE PROJECT ↗**](https://github.com/chandusriii/Heart-Disease-Prediction-Logistic-Regression)
 
 ---
 
-### IRIS FLOWER CLASSIFICATION
-**Supervised Learning · Classification**
+### 03 — Iris Flower Classification
 
-A focused machine-learning project covering the path from dataset preparation to model-based prediction.
+**Machine Learning · Classification · Prediction**
+
+A focused implementation for understanding the complete path from dataset preparation to model-based prediction.
 
 `Python` `Pandas` `Scikit-learn`
 
-[VIEW PROJECT ↗](https://github.com/chandusriii/iris-flower-ml-classification)
+[**EXPLORE PROJECT ↗**](https://github.com/chandusriii/iris-flower-ml-classification)
 
 ---
 
-### MACHINE LEARNING FROM SCRATCH
+### 04 — Machine Learning From Scratch
+
 **Algorithms · Fundamentals · Implementation**
 
-A hands-on workspace for understanding machine-learning concepts through implementation and experimentation.
+A hands-on learning repository for understanding ML concepts through implementation and experimentation.
 
 `Python` `Algorithms` `ML Fundamentals`
 
-[VIEW PROJECT ↗](https://github.com/chandusriii/machine-learning-from-scratch)
+[**EXPLORE PROJECT ↗**](https://github.com/chandusriii/machine-learning-from-scratch)
 
 ---
 
-## 04 / WHAT I’M INTERESTED IN
+## WHAT I’M BUILDING TOWARD
 
-**Artificial Intelligence** · **Machine Learning** · **Deep Learning**  
-**NLP** · **Generative AI** · **LLM Applications** · **AI Engineering**
+**AI Applications** — connecting models with useful software experiences.
 
-I’m especially interested in how **models, data, APIs, and software engineering** come together to create useful AI applications.
+**Intelligent Systems** — moving from individual experiments toward stronger end-to-end solutions.
+
+**AI Engineering** — combining data, inference, APIs, testing, and deployment into dependable applications.
 
 ---
 
-## 05 / ENGINEERING MINDSET
+## BUILD PHILOSOPHY
 
 **Understand the problem.**  
-**Work with the data.**  
-**Build deliberately.**  
-**Measure the result.**  
-**Improve the next version.**
-
-I value **clarity, experimentation, evidence, and iteration** — using every result, including failure, as feedback for the next build.
+**Question the data.**  
+**Build a strong baseline.**  
+**Measure what matters.**  
+**Learn from failure.**  
+**Ship the next improvement.**
 
 ---
 
-## 06 / CONNECT
-
 <div align="center">
 
-<a href="https://github.com/chandusriii">
-<img src="https://img.shields.io/badge/GITHUB-VIEW%20MY%20WORK-161B22?style=for-the-badge&logo=github&logoColor=white" alt="View GitHub work" />
-</a>
+## LET’S BUILD
 
-<!-- Replace this URL with your actual LinkedIn profile -->
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
-</a>
+**AI · DATA · SOFTWARE · IMPACT**
 
-<br><br>
+[![Explore my work](https://img.shields.io/badge/EXPLORE%20MY%20WORK-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chandusriii)
 
-**AI · DATA · ENGINEERING**
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:07111F,50:12355B,100:2563EB&height=90&section=footer&animation=fadeIn" alt="Minimal technology-themed animated footer" />
+<!-- Replace with your real LinkedIn URL -->
+[![Connect](https://img.shields.io/badge/CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
 
 </div>
