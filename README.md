@@ -174,7 +174,15 @@ I’m a 2026 graduate in Artificial Intelligence & Machine Learning, interested 
 
 ---
 
-## 07 · LET’S CONNECT
+## 07 · ACHIEVEMENTS
+
+- 🥈 **GDG Hackathon** — 2nd Place
+- 🏆 **TechTrek National-Level Industry Hackathon** — Finalist
+- 🥈 **Project Expo 2025** — 2nd Place
+
+---
+
+## 08 · LET’S CONNECT
 
 <div align="center">
 
