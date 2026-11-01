@@ -81,14 +81,48 @@ const form = document.querySelector("[data-form]");
 const formInputs = document.querySelectorAll("[data-form-input]");
 const formBtn = document.querySelector("[data-form-btn]");
 
-// The form is front-end only until an email service or backend is configured.
+// Submit contact messages through Formspree.
 if (form) {
-  form.addEventListener("submit", function (event) {
+  form.addEventListener("submit", async function (event) {
     event.preventDefault();
+
     const note = form.querySelector(".form-note");
+    const submitButton = formBtn;
+    const buttonText = submitButton.querySelector("span");
+    const originalButtonText = buttonText ? buttonText.textContent : "Send Message";
+
+    submitButton.disabled = true;
+    if (buttonText) buttonText.textContent = "Sending...";
     if (note) {
-      note.textContent = "Thanks for reaching out. This demo form is not connected to an email service yet. Please connect through GitHub or LinkedIn."; 
+      note.textContent = "Sending your message...";
       note.setAttribute("role", "status");
+    }
+
+    try {
+      const response = await fetch(form.action, {
+        method: "POST",
+        body: new FormData(form),
+        headers: { Accept: "application/json" }
+      });
+
+      if (response.ok) {
+        form.reset();
+        if (note) note.textContent = "Thanks for reaching out! Your message has been sent successfully.";
+        if (buttonText) buttonText.textContent = "Message Sent";
+      } else {
+        const result = await response.json().catch(() => ({}));
+        const details = result.errors?.map(error => error.message).join(" ") || "Please try again in a moment.";
+        if (note) note.textContent = "Sorry, your message could not be sent. " + details;
+        if (buttonText) buttonText.textContent = originalButtonText;
+      }
+    } catch (error) {
+      if (note) note.textContent = "A network error prevented sending your message. Please check your connection and try again.";
+      if (buttonText) buttonText.textContent = originalButtonText;
+    } finally {
+      submitButton.disabled = !form.checkValidity();
+      if (buttonText && buttonText.textContent === "Message Sent") {
+        buttonText.textContent = originalButtonText;
+      }
     }
   });
 }
