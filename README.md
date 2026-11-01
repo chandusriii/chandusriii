@@ -1,104 +1,151 @@
 <div align="center">
 
 # CHANDU SRI
-### AI/ML ENGINEER
+### AI / ML ENGINEER
 
-Building practical machine-learning solutions with Python, data, and thoughtful engineering.
+**Turning data into useful, measurable AI solutions.**
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=18&pause=1400&color=58A6FF&center=true&vCenter=true&width=760&lines=Machine+Learning+%7C+AI+Engineering;Python+%7C+Data+%7C+Model+Evaluation;Learn+%E2%86%92+Build+%E2%86%92+Measure+%E2%86%92+Improve" alt="AI/ML engineering introduction" />
+<a href="https://chandusriii.github.io/chandusriii/"><img src="https://img.shields.io/badge/PORTFOLIO-Visit%20Website-F5C451?style=for-the-badge&labelColor=171717" alt="Portfolio" /></a>
+<a href="https://github.com/chandusriii"><img src="https://img.shields.io/badge/GITHUB-Explore%20Projects-F5C451?style=for-the-badge&labelColor=171717" alt="GitHub" /></a>
 
-<p><a href="https://github.com/chandusriii"><img src="https://img.shields.io/badge/GitHub-chandusriii-181717?style=for-the-badge&logo=github" alt="GitHub profile" /></a> <a href="https://chandusriii.github.io/chandusriii/"><img src="https://img.shields.io/badge/Portfolio-Visit-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio website" /></a></p>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=18&pause=1400&color=F5C451&center=true&vCenter=true&width=760&lines=Machine+Learning+%7C+Applied+AI;Python+%7C+Data+%7C+Model+Evaluation;Understand+%E2%86%92+Build+%E2%86%92+Evaluate+%E2%86%92+Improve" alt="AI/ML engineering" />
 
 </div>
 
 ---
 
-## ABOUT
+## 01 · ABOUT ME
 
-I’m Chandu Sri, an AI/ML Engineer interested in turning data and machine-learning concepts into useful, testable software.
+Hi, I’m **Chandu Sri** — an AI/ML engineer focused on practical machine-learning projects and strong engineering fundamentals.
 
-I enjoy the full problem-solving workflow: understanding the problem, exploring data, building a baseline, evaluating results, and improving the solution based on evidence. I’m continuing to strengthen my foundations through hands-on projects and consistent practice.
+I enjoy the complete ML workflow: understanding a problem, preparing data, building a baseline, evaluating models with meaningful metrics, and improving results based on evidence. I care about readable code, clear documentation, and projects others can run and understand.
 
-**Current direction:** entry-level AI/ML engineering opportunities where I can learn from experienced teams and contribute to real products.
-
----
-
-## TECH STACK
-
-| Area | Tools and concepts |
-|---|---|
-| **Programming** | Python, SQL, Java, JavaScript |
-| **Data** | Pandas, NumPy, data cleaning, exploratory data analysis, feature engineering |
-| **Machine Learning** | Scikit-learn, regression, classification, model evaluation, hyperparameter tuning |
-| **Deep Learning & AI** | TensorFlow, PyTorch, NLP, computer vision, generative AI fundamentals |
-| **Development** | Git, GitHub, Jupyter, VS Code, APIs, Streamlit, FastAPI |
-| **Currently exploring** | LLM applications, retrieval-augmented generation, model deployment, MLOps |
-
-<div align="center"><img src="https://skillicons.dev/icons?i=python,java,js,sql,numpy,pandas,sklearn,tensorflow,pytorch,git,github,vscode&perline=6" alt="Programming, machine learning, and development tools" /></div>
+> **My approach:** Start with the problem. Keep the solution clear. Measure what matters.
 
 ---
 
-## FEATURED PROJECTS
+## 02 · WHAT I WORK ON
 
-### 01 · [House Price Prediction](https://github.com/chandusriii/house_price_prediction)
-**Regression · Supervised Learning**
-
-A machine-learning project focused on preparing structured data and predicting house prices using regression techniques.
-
-`Python` `Pandas` `NumPy` `Scikit-learn`
-
-### 02 · [Heart Disease Prediction — Logistic Regression](https://github.com/chandusriii/Heart-Disease-Prediction-Logistic-Regression)
-**Classification · Model Evaluation**
-
-An educational classification project exploring patient-related features and a logistic-regression workflow. Not intended for medical diagnosis or clinical decision-making.
-
-`Python` `Pandas` `Scikit-learn`
-
-### 03 · [Iris Flower Classification](https://github.com/chandusriii/iris-flower-ml-classification)
-**Classification · ML Fundamentals**
-
-A classic supervised-learning project covering dataset preparation, model training, and predictions.
-
-`Python` `Pandas` `Scikit-learn`
-
-### 04 · [Machine Learning From Scratch](https://github.com/chandusriii/machine-learning-from-scratch)
-**Algorithms · Fundamentals**
-
-A hands-on space for building understanding of core machine-learning concepts through implementation and experimentation.
-
-`Python` `Algorithms` `ML Fundamentals`
-
-### 05 · [SecNet](https://github.com/chandusriii/SecNet)
-**Blockchain · AI · Identity & Privacy**
-
-A project exploring the intersection of blockchain and AI for identity- and privacy-focused applications.
-
-`JavaScript` `Blockchain` `AI`
+<table>
+<tr><td width="50%" valign="top"><h3>Machine Learning</h3>Regression, classification, clustering, feature engineering, model comparison, and evaluation.</td><td width="50%" valign="top"><h3>Applied AI</h3>NLP, computer vision, multimodal AI, and practical AI-powered workflows.</td></tr>
+<tr><td width="50%" valign="top"><h3>AI Engineering</h3>Python applications, APIs, reproducible experiments, and maintainable project structure.</td><td width="50%" valign="top"><h3>Data Science</h3>Data cleaning, exploratory analysis, visualisation, and insights from data.</td></tr>
+</table>
 
 ---
 
-## HOW I BUILD
+## 03 · TECH STACK
 
-<div align="center"><strong>UNDERSTAND → EXPLORE → BUILD → EVALUATE → IMPROVE</strong></div>
+<div align="center">
 
-- **Start with the problem:** clarify the goal and understand the data.
-- **Build a baseline:** choose a suitable approach before adding complexity.
-- **Measure results:** use appropriate metrics instead of relying on assumptions.
-- **Keep improving:** document decisions, refine the implementation, and make projects easier to run.
+**LANGUAGES & DATA**
+
+<img src="https://skillicons.dev/icons?i=python,java,js,mysql,numpy,pandas&perline=6" alt="Programming and data tools" />
+
+**MACHINE LEARNING & AI**
+
+<img src="https://skillicons.dev/icons?i=sklearn,tensorflow,pytorch,opencv&perline=6" alt="Machine learning tools" />
+
+**DEVELOPMENT TOOLS**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,fastapi,react,docker&perline=6" alt="Development tools" />
+
+</div>
+
+- **ML foundations:** supervised learning, regression, classification, clustering, model validation, metrics, and hyperparameter tuning.
+- **Data workflow:** Pandas, NumPy, data cleaning, exploratory analysis, and feature preparation.
+- **AI areas:** NLP, computer vision, deep learning, and multimodal AI.
+- **Building & shipping:** Git/GitHub, Jupyter, APIs, FastAPI, and documentation.
 
 ---
 
-## CURRENT FOCUS
+## 04 · SELECTED PROJECTS
 
-- Strengthening machine-learning and statistics fundamentals.
-- Comparing models using consistent evaluation methods.
-- Building clean, documented, reproducible Python projects.
-- Learning how to serve and deploy AI/ML models.
+### ✦ [Lightweight Video Classifier](https://github.com/chandusriii/problem-1-1-video-classifier)
+**Multimodal AI · Video Understanding**  
+A lightweight video-classification workflow focused on benchmarking and balancing model quality with runtime constraints.  
+Python · Video AI · Benchmarking
+
+### ✦ [User Intent Classifier](https://github.com/chandusriii/problem-1-2-user-intent-classifier)
+**NLP · Classification**  
+Explores mapping language inputs to meaningful user intents.  
+Python · NLP · Classification
+
+### ✦ [NovaGen Health Risk Classification](https://github.com/chandusriii/novagen-health-risk-classification)
+**Machine Learning · Classification**  
+A structured-data classification project focused on an applied health-risk prediction workflow.  
+Python · Machine Learning · Evaluation
+
+### ✦ [SmartCart Clustering System](https://github.com/chandusriii/smartcart-clustering-system)
+**Unsupervised Learning · Clustering**  
+Explores patterns and groups within data using a clustering workflow.  
+Python · Clustering · Data Analysis
+
+### ✦ [House Price Prediction](https://github.com/chandusriii/house_price_prediction)
+**Regression · Supervised Learning**  
+A structured-data regression project for estimating house prices.  
+Python · Pandas · Scikit-learn
+
+### ✦ [Heart Disease Prediction — Logistic Regression](https://github.com/chandusriii/Heart-Disease-Prediction-Logistic-Regression)
+**Classification · Model Evaluation**  
+An educational binary-classification project using healthcare data. Not intended for medical diagnosis or clinical decision-making.  
+Python · Logistic Regression · Model Metrics
+
+### ✦ [Iris Flower Classification](https://github.com/chandusriii/iris-flower-ml-classification)
+**Classification · ML Fundamentals**  
+A classic project covering dataset preparation, model training, and prediction.  
+Python · Pandas · Scikit-learn
+
+### ✦ [Machine Learning from Scratch](https://github.com/chandusriii/machine-learning-from-scratch)
+**Algorithms · Foundations**  
+A hands-on repository for learning core ML concepts through implementation and experimentation.  
+Python · Algorithms · ML Fundamentals
 
 ---
 
-## CONNECT
+## 05 · HOW I BUILD
 
-<div align="center"><a href="https://github.com/chandusriii"><img src="https://img.shields.io/badge/GitHub-Explore%20my%20work-181717?style=for-the-badge&logo=github" alt="GitHub" /></a> <a href="https://chandusriii.github.io/chandusriii/"><img src="https://img.shields.io/badge/Portfolio-View%20my%20portfolio-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a></div>
+<div align="center">
 
-> I value curiosity, solid fundamentals, measurable progress, and building things that work.
+**UNDERSTAND** → **EXPLORE** → **BUILD** → **EVALUATE** → **IMPROVE**
+
+</div>
+
+- **Problem first:** clarify the goal and understand the data.
+- **Baseline before complexity:** start simple and compare fairly.
+- **Evidence over assumptions:** use suitable metrics and consistent validation.
+- **Reproducibility matters:** structure code, document decisions, and explain how to run projects.
+- **Iterate thoughtfully:** let results guide the next improvement.
+
+---
+
+## 06 · CURRENT FOCUS
+
+- Deepening machine-learning and statistics fundamentals.
+- Comparing models with consistent evaluation methods.
+- Building clean, reproducible Python projects with useful documentation.
+- Exploring multimodal AI workflows and model deployment.
+
+---
+
+## 07 · EXPERIENCE & LEARNING
+
+- **Web & Full Stack Java Developer Intern** — March–May 2025
+- **Edu-net Foundation · Microsoft Initiative / AICTE Collaboration** — June–July 2025
+- **Data Science Intern · ExcelR Solutions** — May–June 2024
+- **AI & ML Intern · BIST Technologies** — May–June 2024
+
+I’m a 2026 graduate in Artificial Intelligence & Machine Learning, interested in entry-level AI/ML engineering opportunities where I can contribute, learn from experienced teams, and build reliable products.
+
+---
+
+## 08 · LET’S CONNECT
+
+<div align="center">
+
+<a href="https://chandusriii.github.io/chandusriii/"><img src="https://img.shields.io/badge/PORTFOLIO-Explore%20My%20Work-F5C451?style=for-the-badge&labelColor=171717" alt="Portfolio website" /></a>
+<a href="https://github.com/chandusriii"><img src="https://img.shields.io/badge/GITHUB-Follow%20My%20Work-F5C451?style=for-the-badge&labelColor=171717" alt="GitHub profile" /></a>
+
+<br/><br/>
+*Curious by nature. Evidence-driven by practice. Always building.*
+
+</div>
