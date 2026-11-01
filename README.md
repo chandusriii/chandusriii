@@ -160,29 +160,6 @@ A hands-on repository for learning core ML concepts through implementation and e
 
 ---
 
-## 05 · HOW I BUILD
-
-<div align="center">
-
-**UNDERSTAND** → **EXPLORE** → **BUILD** → **EVALUATE** → **IMPROVE**
-
-</div>
-
-- **Problem first:** clarify the goal and understand the data.
-- **Baseline before complexity:** start simple and compare fairly.
-- **Evidence over assumptions:** use suitable metrics and consistent validation.
-- **Reproducibility matters:** structure code, document decisions, and explain how to run projects.
-- **Iterate thoughtfully:** let results guide the next improvement.
-
----
-
-## 06 · CURRENT FOCUS
-
-- Deepening machine-learning and statistics fundamentals.
-- Comparing models with consistent evaluation methods.
-- Building clean, reproducible Python projects with useful documentation.
-- Exploring multimodal AI workflows and model deployment.
-
 ---
 
 ## 07 · EXPERIENCE & LEARNING
