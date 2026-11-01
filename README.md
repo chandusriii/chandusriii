@@ -59,45 +59,104 @@ I enjoy the complete ML workflow: understanding a problem, preparing data, build
 
 ## 04 · SELECTED PROJECTS
 
-### ✦ [Lightweight Video Classifier](https://github.com/chandusriii/problem-1-1-video-classifier)
-**Multimodal AI · Video Understanding**  
-A lightweight video-classification workflow focused on benchmarking and balancing model quality with runtime constraints.  
-Python · Video AI · Benchmarking
+<table>
+<tr>
+<td width="50%" valign="top">
 
-### ✦ [User Intent Classifier](https://github.com/chandusriii/problem-1-2-user-intent-classifier)
-**NLP · Classification**  
-Explores mapping language inputs to meaningful user intents.  
-Python · NLP · Classification
+### 🎬 [Lightweight Video Classifier](https://github.com/chandusriii/problem-1-1-video-classifier)
 
-### ✦ [NovaGen Health Risk Classification](https://github.com/chandusriii/novagen-health-risk-classification)
-**Machine Learning · Classification**  
-A structured-data classification project focused on an applied health-risk prediction workflow.  
-Python · Machine Learning · Evaluation
+Multimodal AI · Video Understanding
 
-### ✦ [SmartCart Clustering System](https://github.com/chandusriii/smartcart-clustering-system)
-**Unsupervised Learning · Clustering**  
-Explores patterns and groups within data using a clustering workflow.  
-Python · Clustering · Data Analysis
+A lightweight video-classification workflow focused on benchmarking and balancing model quality with runtime constraints.
 
-### ✦ [House Price Prediction](https://github.com/chandusriii/house_price_prediction)
-**Regression · Supervised Learning**  
-A structured-data regression project for estimating house prices.  
-Python · Pandas · Scikit-learn
+<img src="https://img.shields.io/badge/VIDEO%20AI-BENCHMARKING-F5C451?style=flat-square&labelColor=171717" alt="Video AI and benchmarking" />
 
-### ✦ [Heart Disease Prediction — Logistic Regression](https://github.com/chandusriii/Heart-Disease-Prediction-Logistic-Regression)
-**Classification · Model Evaluation**  
-An educational binary-classification project using healthcare data. Not intended for medical diagnosis or clinical decision-making.  
-Python · Logistic Regression · Model Metrics
+</td>
+<td width="50%" valign="top">
 
-### ✦ [Iris Flower Classification](https://github.com/chandusriii/iris-flower-ml-classification)
-**Classification · ML Fundamentals**  
-A classic project covering dataset preparation, model training, and prediction.  
-Python · Pandas · Scikit-learn
+### 🧠 [User Intent Classifier](https://github.com/chandusriii/problem-1-2-user-intent-classifier)
 
-### ✦ [Machine Learning from Scratch](https://github.com/chandusriii/machine-learning-from-scratch)
-**Algorithms · Foundations**  
-A hands-on repository for learning core ML concepts through implementation and experimentation.  
-Python · Algorithms · ML Fundamentals
+NLP · Classification
+
+Explores mapping language inputs to meaningful user intents.
+
+<img src="https://img.shields.io/badge/NLP-CLASSIFICATION-F5C451?style=flat-square&labelColor=171717" alt="NLP classification" />
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🩺 [NovaGen Health Risk Classification](https://github.com/chandusriii/novagen-health-risk-classification)
+
+Machine Learning · Classification
+
+A structured-data classification project focused on an applied health-risk prediction workflow.
+
+<img src="https://img.shields.io/badge/MACHINE%20LEARNING-EVALUATION-F5C451?style=flat-square&labelColor=171717" alt="Machine learning and evaluation" />
+
+</td>
+<td width="50%" valign="top">
+
+### 🛒 [SmartCart Clustering System](https://github.com/chandusriii/smartcart-clustering-system)
+
+Unsupervised Learning · Clustering
+
+Explores patterns and groups within data using a clustering workflow.
+
+<img src="https://img.shields.io/badge/CLUSTERING-DATA%20ANALYSIS-F5C451?style=flat-square&labelColor=171717" alt="Clustering and data analysis" />
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🏡 [House Price Prediction](https://github.com/chandusriii/house_price_prediction)
+
+Regression · Supervised Learning
+
+A structured-data regression project for estimating house prices.
+
+<img src="https://img.shields.io/badge/REGRESSION-SUPERVISED%20LEARNING-F5C451?style=flat-square&labelColor=171717" alt="Regression and supervised learning" />
+
+</td>
+<td width="50%" valign="top">
+
+### ❤️ [Heart Disease Prediction](https://github.com/chandusriii/Heart-Disease-Prediction-Logistic-Regression)
+
+Logistic Regression · Classification
+
+An educational binary-classification project using healthcare data. Not intended for medical diagnosis or clinical decision-making.
+
+<img src="https://img.shields.io/badge/CLASSIFICATION-MODEL%20METRICS-F5C451?style=flat-square&labelColor=171717" alt="Classification and model metrics" />
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🌸 [Iris Flower Classification](https://github.com/chandusriii/iris-flower-ml-classification)
+
+Classification · ML Fundamentals
+
+A classic project covering dataset preparation, model training, and prediction.
+
+<img src="https://img.shields.io/badge/SCIKIT--LEARN-CLASSIFICATION-F5C451?style=flat-square&labelColor=171717" alt="Scikit-learn classification" />
+
+</td>
+<td width="50%" valign="top">
+
+### ⚙️ [Machine Learning from Scratch](https://github.com/chandusriii/machine-learning-from-scratch)
+
+Algorithms · Foundations
+
+A hands-on repository for learning core ML concepts through implementation and experimentation.
+
+<img src="https://img.shields.io/badge/ALGORITHMS-ML%20FUNDAMENTALS-F5C451?style=flat-square&labelColor=171717" alt="Algorithms and ML fundamentals" />
+
+</td>
+</tr>
+</table>
 
 ---
 
