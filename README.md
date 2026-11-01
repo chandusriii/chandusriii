@@ -162,8 +162,9 @@ A hands-on repository for learning core ML concepts through implementation and e
 
 ---
 
-## 07 · EXPERIENCE & LEARNING
+## 06 · EXPERIENCE & LEARNING
 
+- **Apna College · Learning & Project Implementation** — 2026
 - **Web & Full Stack Java Developer Intern** — March–May 2025
 - **Edu-net Foundation · Microsoft Initiative / AICTE Collaboration** — June–July 2025
 - **Data Science Intern · ExcelR Solutions** — May–June 2024
@@ -173,7 +174,7 @@ I’m a 2026 graduate in Artificial Intelligence & Machine Learning, interested 
 
 ---
 
-## 08 · LET’S CONNECT
+## 07 · LET’S CONNECT
 
 <div align="center">
 
