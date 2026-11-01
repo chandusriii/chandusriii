@@ -81,6 +81,18 @@ const form = document.querySelector("[data-form]");
 const formInputs = document.querySelectorAll("[data-form-input]");
 const formBtn = document.querySelector("[data-form-btn]");
 
+// The form is front-end only until an email service or backend is configured.
+if (form) {
+  form.addEventListener("submit", function (event) {
+    event.preventDefault();
+    const note = form.querySelector(".form-note");
+    if (note) {
+      note.textContent = "Thanks for reaching out. This demo form is not connected to an email service yet. Please connect through GitHub or LinkedIn."; 
+      note.setAttribute("role", "status");
+    }
+  });
+}
+
 // add event to all form input field
 for (let i = 0; i < formInputs.length; i++) {
   formInputs[i].addEventListener("input", function () {
