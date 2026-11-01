@@ -2,9 +2,6 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=170&color=0d1117&fontColor=F5C451&text=CHANDU%20SRI&fontSize=48&fontAlignY=42&desc=AI%20%2F%20ML%20ENGINEER&descAlignY=68&descSize=18" alt="Chandu Sri — AI/ML Engineer, dark charcoal and gold banner" />
 
-# CHANDU SRI
-### AI / ML ENGINEER
-
 **Turning data into useful, measurable AI solutions.**
 
 <a href="https://chandusriii.github.io/chandusriii/"><img src="https://img.shields.io/badge/PORTFOLIO-Visit%20Website-F5C451?style=for-the-badge&labelColor=171717" alt="Portfolio" /></a>
