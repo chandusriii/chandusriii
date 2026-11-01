@@ -1,142 +1,261 @@
-<!doctype html>
+        <!DOCTYPE html>
 <html lang="en">
+
 <head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="theme-color" content="#0b1020">
-  <meta name="description" content="Chandu Sri — AI/ML Engineer building practical machine learning systems, data products, and intelligent applications.">
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Chandu Sri | AI/ML Engineer</title>
+
+  <link rel="icon" href="./assets/images/avatar.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="./assets/css/style.css">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=DM+Mono:wght@400;500&family=Manrope:wght@400;500;600;700;800&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="assets/css/style.css">
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap" rel="stylesheet">
 </head>
+
 <body>
-  <div class="ambient ambient-one"></div><div class="ambient ambient-two"></div>
-  <main class="layout">
-    <aside class="sidebar">
-      <div class="identity">
-        <div class="avatar" aria-label="Chandu Sri initials">CS<span class="status-dot"></span></div>
-        <p class="eyebrow">PORTFOLIO / 2026</p>
-        <h1>Chandu Sri</h1>
-        <p class="role">AI / ML Engineer</p>
-        <p class="sidebar-intro">Building practical AI systems with data, machine learning, and software engineering.</p>
-        <div class="availability"><span></span> Open to entry-level opportunities</div>
+
+  <main>
+
+    <!--  #SIDEBAR  -->
+    <aside class="sidebar" data-sidebar>
+
+      <div class="sidebar-info">
+        <figure class="avatar-box">
+          <img src="./assets/images/avatar.svg" alt="Chandu Sri monogram" width="80">
+        </figure>
+
+        <div class="info-content">
+          <h1 class="name" title="Chandu Sri">Chandu Sri</h1>
+          <p class="title">AI/ML Engineer | Machine Learning | Applied AI</p>
+        </div>
+
+        <button class="info_more-btn" data-sidebar-btn>
+          <span>Show Contacts</span>
+          <ion-icon name="chevron-down"></ion-icon>
+        </button>
       </div>
-      <div class="sidebar-rule"></div>
-      <div class="sidebar-block">
-        <p class="eyebrow">FOCUS AREAS</p>
-        <div class="focus-tags"><span>Machine Learning</span><span>Generative AI</span><span>Data Science</span><span>AI Engineering</span></div>
+
+      <div class="sidebar-info_more">
+
+        <div class="separator"></div>
+
+        <ul class="contacts-list">
+          <li class="contact-item">
+            <div class="icon-box"><ion-icon name="logo-github"></ion-icon></div>
+            <div class="contact-info"><p class="contact-title">GitHub</p><a href="https://github.com/chandusriii" class="contact-link" target="_blank" rel="noreferrer">github.com/chandusriii</a></div>
+          </li>
+          <li class="contact-item">
+            <div class="icon-box"><ion-icon name="location-outline"></ion-icon></div>
+            <div class="contact-info"><p class="contact-title">Location</p><address>Vijayawada, Andhra Pradesh, India</address></div>
+          </li>
+        </ul>
+
+        <div class="separator"></div>
+
+        <ul class="social-list">
+          <li class="social-item">
+            <a href="https://github.com/chandusriii" class="social-link">
+              <ion-icon name="logo-github"></ion-icon>
+            </a>
+          </li>
+          <li class="social-item">
+            <a href="https://www.linkedin.com/" class="social-link">
+              <ion-icon name="logo-linkedin"></ion-icon>
+            </a>
+          </li>
+
+        </ul>
+
       </div>
-      <div class="sidebar-rule"></div>
-      <div class="sidebar-block contact-mini">
-        <p class="eyebrow">FIND ME ONLINE</p>
-        <a href="https://github.com/chandusriii" target="_blank" rel="noreferrer"><span class="link-icon">GH</span><span><small>GitHub</small><strong>@chandusriii</strong></span><b>↗</b></a>
-        <a href="https://www.linkedin.com/" target="_blank" rel="noreferrer"><span class="link-icon">in</span><span><small>LinkedIn</small><strong>Connect professionally</strong></span><b>↗</b></a>
-      </div>
-      <p class="sidebar-foot">Curious by nature. Evidence-led by practice.</p>
+
     </aside>
 
-    <section class="main-panel">
-      <nav class="navbar" aria-label="Main navigation">
-        <button class="nav-link active" data-page="about">Overview</button>
-        <button class="nav-link" data-page="resume">Experience</button>
-        <button class="nav-link" data-page="portfolio">Projects</button>
-        <button class="nav-link" data-page="contact">Contact</button>
+
+    <!--  #main-content  -->
+    <div class="main-content">
+
+      <!--  #NAVBAR  -->
+      <nav class="navbar">
+        <ul class="navbar-list">
+          <li class="navbar-item">
+            <button class="navbar-link active" data-nav-link>About</button>
+          </li>
+          <li class="navbar-item">
+            <button class="navbar-link" data-nav-link>Resume</button>
+          </li>
+          <li class="navbar-item">
+            <button class="navbar-link" data-nav-link>Portfolio</button>
+          </li>
+          <li class="navbar-item">
+            <button class="navbar-link" data-nav-link>Contact</button>
+          </li>
+        </ul>
       </nav>
 
-      <article class="page active" id="about">
-        <header class="page-header">
-          <p class="eyebrow">HELLO, WORLD <span class="line"></span></p>
-          <h2>Turning data into<br><span class="gradient-text">useful intelligence.</span></h2>
-          <p class="lead">I’m Chandu Sri, an AI/ML Engineer interested in building reliable, practical systems—from understanding the problem and preparing data to evaluating models and delivering usable applications.</p>
-          <div class="hero-actions">
-            <button class="button button-primary" data-go="portfolio">Explore my work <span>↘</span></button>
-            <a class="button button-secondary" href="https://github.com/chandusriii" target="_blank" rel="noreferrer">GitHub profile ↗</a>
-          </div>
+
+      <!--  #ABOUT  -->
+      <article class="about active" data-page="about">
+
+        <header>
+          <h2 class="h2 article-title">About me</h2>
         </header>
 
-        <section class="section">
-          <div class="section-heading"><div><p class="eyebrow">WHAT I WORK ON</p><h3>Areas of interest</h3></div><span class="section-index">01 — 03</span></div>
-          <div class="service-grid">
-            <div class="service-card"><span class="service-number">01</span><div class="service-icon">⌘</div><h4>Machine Learning</h4><p>Data preparation, feature engineering, classification, regression, clustering, and meaningful model evaluation.</p><div class="mini-tags"><span>Scikit-learn</span><span>Evaluation</span></div></div>
-            <div class="service-card"><span class="service-number">02</span><div class="service-icon">✳</div><h4>Applied AI</h4><p>Exploring intelligent applications, NLP, retrieval-augmented generation, and multimodal workflows.</p><div class="mini-tags"><span>NLP</span><span>LLMs</span></div></div>
-            <div class="service-card"><span class="service-number">03</span><div class="service-icon">⌘</div><h4>AI Engineering</h4><p>Connecting models to maintainable software through clear interfaces, tests, and practical system design.</p><div class="mini-tags"><span>Python</span><span>APIs</span></div></div>
-          </div>
+        <section class="about-text">
+          <p>AI/ML Engineer focused on building practical machine-learning solutions, data-driven applications, and intelligent systems. I enjoy working across the machine-learning workflow—from data preparation and experimentation to evaluation and application development.</p>
+          <p>My interests include applied machine learning, generative AI, computer vision, NLP, and building reliable AI products. I value clear problem framing, meaningful evaluation, and maintainable engineering.</p>
         </section>
 
-        <section class="section">
-          <div class="section-heading"><div><p class="eyebrow">TOOLS & TECHNOLOGIES</p><h3>My working toolkit</h3></div></div>
-          <div class="toolkit">
-            <div class="tool-row"><span class="tool-label">LANGUAGES</span><div class="tool-chips"><span>Python</span><span>SQL</span><span>JavaScript</span><span>Java</span></div></div>
-            <div class="tool-row"><span class="tool-label">DATA & ML</span><div class="tool-chips"><span>NumPy</span><span>Pandas</span><span>Scikit-learn</span><span>TensorFlow</span><span>PyTorch</span></div></div>
-            <div class="tool-row"><span class="tool-label">APP DEVELOPMENT</span><div class="tool-chips"><span>FastAPI</span><span>Flask</span><span>React</span><span>Streamlit</span></div></div>
-            <div class="tool-row"><span class="tool-label">TOOLS</span><div class="tool-chips"><span>Git</span><span>GitHub</span><span>Jupyter</span><span>Docker</span><span>Power BI</span></div></div>
-          </div>
+        <section class="service">
+
+          <h3 class="h3 service-title">What i'm doing</h3>
+
+          <ul class="service-list">
+            <li class="service-item"><div class="service-icon-box"><img src="https://bnskrishna.github.io/assets/images/icon-design.svg" alt="machine learning icon" width="40"></div><div class="service-content-box"><h4 class="h4 service-item-title">Machine Learning</h4><p class="service-item-text">Building classification, regression, and clustering workflows with careful data preparation and model evaluation.</p></div></li>
+            <li class="service-item"><div class="service-icon-box"><img src="https://bnskrishna.github.io/assets/images/icon-dev.svg" alt="AI development icon" width="40"></div><div class="service-content-box"><h4 class="h4 service-item-title">Applied AI</h4><p class="service-item-text">Exploring AI applications across NLP, retrieval-augmented generation, and multimodal workflows.</p></div></li>
+            <li class="service-item"><div class="service-icon-box"><img src="https://bnskrishna.github.io/assets/images/icon-app.svg" alt="software engineering icon" width="40"></div><div class="service-content-box"><h4 class="h4 service-item-title">AI Engineering</h4><p class="service-item-text">Connecting models to usable applications through APIs, modular code, testing, and documentation.</p></div></li>
+            <li class="service-item"><div class="service-icon-box"><img src="https://bnskrishna.github.io/assets/images/icon-photo.svg" alt="data science icon" width="40"></div><div class="service-content-box"><h4 class="h4 service-item-title">Data Science</h4><p class="service-item-text">Using exploratory data analysis, visualization, and experiments to turn data into useful insights.</p></div></li>
+          </ul>
+
         </section>
 
-        <section class="section">
-          <div class="section-heading"><div><p class="eyebrow">SELECTED WORK</p><h3>Projects worth exploring</h3></div><button class="text-link" data-go="portfolio">All projects ↗</button></div>
-          <div class="featured-grid">
-            <a class="featured-card" href="https://github.com/chandusriii/novagen-health-risk-classification" target="_blank" rel="noreferrer"><div class="project-top"><span class="project-type">CLASSIFICATION</span><span>↗</span></div><h4>NovaGen Health Risk Classification</h4><p>A machine-learning workflow focused on health-risk classification and structured model development.</p><div class="project-footer"><span>Python</span><span>Scikit-learn</span></div></a>
-            <a class="featured-card" href="https://github.com/chandusriii/smartcart-clustering-system" target="_blank" rel="noreferrer"><div class="project-top"><span class="project-type">UNSUPERVISED ML</span><span>↗</span></div><h4>SmartCart Clustering System</h4><p>A clustering-focused project exploring customer or product patterns through unsupervised learning.</p><div class="project-footer"><span>Python</span><span>Clustering</span></div></a>
-          </div>
-        </section>
-        <div class="closing-note"><span class="note-mark">✳</span><p><strong>How I approach problems</strong><br>Understand → Explore → Build → Evaluate → Improve</p></div>
       </article>
 
-      <article class="page" id="resume">
-        <header class="compact-header"><p class="eyebrow">THE PATH SO FAR</p><h2>Learning by <span class="gradient-text">building.</span></h2><p class="lead">A snapshot of my education, practical experience, and continued learning.</p></header>
-        <section class="section timeline-section">
-          <div class="section-heading"><div><p class="eyebrow">EDUCATION</p><h3>Academic background</h3></div></div>
-          <div class="timeline">
-            <div class="timeline-item"><span class="timeline-date">2022 — 2026</span><div><h4>B.Tech — Artificial Intelligence & Machine Learning</h4><p>VKR, VNB & AGK College of Engineering · JNTU Andhra Pradesh</p><p class="timeline-detail">CGPA: 8.03 / 10</p></div></div>
-            <div class="timeline-item"><span class="timeline-date">2019 — 2021</span><div><h4>Intermediate</h4><p>Sri Chaitanya Junior College, Tenali</p><p class="timeline-detail">70%</p></div></div>
-            <div class="timeline-item"><span class="timeline-date">2019</span><div><h4>Secondary School Certificate</h4><p>Sri Chaitanya School, Tenali</p><p class="timeline-detail">CGPA: 9.8 / 10</p></div></div>
-          </div>
+
+      <!--  #RESUME  -->
+      <article class="resume" data-page="resume">
+
+        <header>
+          <h2 class="h2 article-title">Resume</h2>
+        </header>
+
+        <section class="timeline">
+          <div class="title-wrapper"><div class="icon-box"><ion-icon name="briefcase-outline"></ion-icon></div><h3 class="h3">Experience</h3></div>
+          <ol class="timeline-list">
+            <li class="timeline-item"><h4 class="h4 timeline-item-title">Web & Full Stack Java Developer Intern</h4><span>2025</span><p class="timeline-text">Practical experience with web application development and full-stack engineering concepts.</p></li>
+            <li class="timeline-item"><h4 class="h4 timeline-item-title">AICTE / Microsoft Initiative — Edu-net Foundation</h4><span>2025</span><p class="timeline-text">AI-focused learning and project work through a structured internship program.</p></li>
+            <li class="timeline-item"><h4 class="h4 timeline-item-title">Data Science Intern — ExcelR Solutions</h4><span>2024</span><p class="timeline-text">Worked with foundational data science concepts and analytical workflows.</p></li>
+            <li class="timeline-item"><h4 class="h4 timeline-item-title">AI & ML Intern — BIST Technologies</h4><span>2024</span><p class="timeline-text">Developed foundational experience in artificial intelligence and machine learning.</p></li>
+          </ol>
         </section>
-        <section class="section timeline-section">
-          <div class="section-heading"><div><p class="eyebrow">PRACTICAL EXPERIENCE</p><h3>Internships & projects</h3></div></div>
-          <div class="timeline">
-            <div class="timeline-item"><span class="timeline-date">2025</span><div><h4>Web & Full Stack Java Developer Intern</h4><p>Practical experience with web development concepts and application building.</p></div></div>
-            <div class="timeline-item"><span class="timeline-date">2025</span><div><h4>AICTE / Microsoft initiative — Edu-net Foundation</h4><p>AI-focused learning and project work through a structured internship program.</p></div></div>
-            <div class="timeline-item"><span class="timeline-date">2024</span><div><h4>Data Science Intern — ExcelR Solutions</h4><p>Worked on foundational data science and analytical workflows.</p></div></div>
-            <div class="timeline-item"><span class="timeline-date">2024</span><div><h4>AI & ML Intern — BIST Technologies</h4><p>Built foundational experience in artificial intelligence and machine learning.</p></div></div>
-          </div>
+
+        <section class="skill">
+
+          <h3 class="h3 skills-title">My skills</h3>
+
+          <ul class="skills-list content-card">
+            <li class="skills-item"><div class="title-wrapper"><h5 class="h5">Python</h5><data value="85">85%</data></div><div class="skill-progress-bg"><div class="skill-progress-fill" style="width: 85%;"></div></div></li>
+            <li class="skills-item"><div class="title-wrapper"><h5 class="h5">Machine Learning</h5><data value="80">80%</data></div><div class="skill-progress-bg"><div class="skill-progress-fill" style="width: 80%;"></div></div></li>
+            <li class="skills-item"><div class="title-wrapper"><h5 class="h5">SQL & Data Analysis</h5><data value="75">75%</data></div><div class="skill-progress-bg"><div class="skill-progress-fill" style="width: 75%;"></div></div></li>
+            <li class="skills-item"><div class="title-wrapper"><h5 class="h5">AI Application Development</h5><data value="70">70%</data></div><div class="skill-progress-bg"><div class="skill-progress-fill" style="width: 70%;"></div></div></li>
+          </ul>
+
         </section>
-        <section class="section"><div class="section-heading"><div><p class="eyebrow">WORKING PRINCIPLES</p><h3>What matters to me</h3></div></div><div class="principles-grid"><div><b>01</b><h4>Evidence over assumptions</h4><p>Use appropriate baselines and metrics to understand whether a model is working.</p></div><div><b>02</b><h4>Clarity over complexity</h4><p>Prefer solutions that are understandable, testable, and maintainable.</p></div><div><b>03</b><h4>Keep improving</h4><p>Learn from errors, document decisions, and iterate with purpose.</p></div></div></section>
+
       </article>
 
-      <article class="page" id="portfolio">
-        <header class="compact-header"><p class="eyebrow">SELECTED BUILDS & EXPERIMENTS</p><h2>Work in <span class="gradient-text">progress.</span></h2><p class="lead">A selection of machine-learning projects and engineering experiments. Open a repository for code and implementation details.</p></header>
-        <section class="section">
-          <div class="filters" role="group" aria-label="Filter projects"><button class="filter active" data-filter="all">All work <span>08</span></button><button class="filter" data-filter="ml">Machine learning</button><button class="filter" data-filter="ai">AI systems</button><button class="filter" data-filter="fundamentals">Fundamentals</button></div>
-          <div class="project-grid">
-            <a class="project-card" data-category="ai" href="https://github.com/chandusriii/problem-1-2-user-intent-classifier" target="_blank" rel="noreferrer"><div class="card-visual visual-violet"><span>INTENT</span><b>01</b><i>↗</i></div><div class="project-card-body"><p class="project-type">AI SYSTEMS · NLP</p><h3>User Intent Classifier</h3><p>Intent classification designed to help route user queries to the right handling workflow.</p><div class="project-footer"><span>Python</span><span>NLP</span></div></div></a>
-            <a class="project-card" data-category="ai" href="https://github.com/chandusriii/problem-1-1-video-classifier" target="_blank" rel="noreferrer"><div class="card-visual visual-blue"><span>VIDEO AI</span><b>02</b><i>↗</i></div><div class="project-card-body"><p class="project-type">MULTIMODAL · VIDEO</p><h3>Lightweight Video Classifier</h3><p>An assessment project exploring lightweight video understanding and frame sampling.</p><div class="project-footer"><span>Python</span><span>Computer Vision</span></div></div></a>
-            <a class="project-card" data-category="ml" href="https://github.com/chandusriii/novagen-health-risk-classification" target="_blank" rel="noreferrer"><div class="card-visual visual-green"><span>HEALTH ML</span><b>03</b><i>↗</i></div><div class="project-card-body"><p class="project-type">SUPERVISED LEARNING</p><h3>NovaGen Health Risk Classification</h3><p>A structured classification project focused on model development and evaluation.</p><div class="project-footer"><span>Python</span><span>Classification</span></div></div></a>
-            <a class="project-card" data-category="ml" href="https://github.com/chandusriii/smartcart-clustering-system" target="_blank" rel="noreferrer"><div class="card-visual visual-orange"><span>CLUSTERING</span><b>04</b><i>↗</i></div><div class="project-card-body"><p class="project-type">UNSUPERVISED LEARNING</p><h3>SmartCart Clustering System</h3><p>Exploring patterns in data with clustering techniques and a repeatable workflow.</p><div class="project-footer"><span>Python</span><span>Clustering</span></div></div></a>
-            <a class="project-card" data-category="ml" href="https://github.com/chandusriii/house_price_prediction" target="_blank" rel="noreferrer"><div class="card-visual visual-blue"><span>REGRESSION</span><b>05</b><i>↗</i></div><div class="project-card-body"><p class="project-type">SUPERVISED LEARNING</p><h3>House Price Prediction</h3><p>A regression workflow for learning from structured housing data and producing price estimates.</p><div class="project-footer"><span>Python</span><span>Regression</span></div></div></a>
-            <a class="project-card" data-category="ml" href="https://github.com/chandusriii/Heart-Disease-Prediction-Logistic-Regression" target="_blank" rel="noreferrer"><div class="card-visual visual-rose"><span>CLASSIFICATION</span><b>06</b><i>↗</i></div><div class="project-card-body"><p class="project-type">LOGISTIC REGRESSION</p><h3>Heart Disease Prediction</h3><p>A learning project demonstrating a supervised classification workflow on health-related data.</p><div class="project-footer"><span>Python</span><span>Scikit-learn</span></div></div></a>
-            <a class="project-card" data-category="ml" href="https://github.com/chandusriii/iris-flower-ml-classification" target="_blank" rel="noreferrer"><div class="card-visual visual-green"><span>IRIS DATA</span><b>07</b><i>↗</i></div><div class="project-card-body"><p class="project-type">CLASSIFICATION</p><h3>Iris Flower Classification</h3><p>A compact end-to-end exercise in preparing data and predicting flower classes.</p><div class="project-footer"><span>Python</span><span>Scikit-learn</span></div></div></a>
-            <a class="project-card" data-category="fundamentals" href="https://github.com/chandusriii/machine-learning-from-scratch" target="_blank" rel="noreferrer"><div class="card-visual visual-violet"><span>ML CORE</span><b>08</b><i>↗</i></div><div class="project-card-body"><p class="project-type">ALGORITHMS · FUNDAMENTALS</p><h3>Machine Learning from Scratch</h3><p>A workspace for understanding machine-learning ideas through hands-on implementation.</p><div class="project-footer"><span>Python</span><span>Algorithms</span></div></div></a>
+
+      <!--  #PORTFOLIO  -->
+      <article class="portfolio" data-page="portfolio">
+
+        <header>
+          <h2 class="h2 article-title">Portfolio</h2>
+        </header>
+
+        <section class="projects">
+
+          <!--
+            Filter buttons — button text must match data-category values (case-insensitive).
+            Filter categories used below:
+              "automotive systems"
+              "cfd simulations"
+              "mechanical design"
+          -->
+
+          <ul class="filter-list">
+            <li class="filter-item"><button class="active" data-filter-btn>All</button></li>
+            <li class="filter-item"><button data-filter-btn>Machine learning</button></li>
+            <li class="filter-item"><button data-filter-btn>AI</button></li>
+          </ul>
+
+          <div class="filter-select-box">
+
+            <button class="filter-select" data-select>
+              <div class="select-value" data-selecct-value>Select category</div>
+              <div class="select-icon">
+                <ion-icon name="chevron-down"></ion-icon>
+              </div>
+            </button>
+
+            <ul class="select-list"><li class="select-item"><button data-select-item>All</button></li><li class="select-item"><button data-select-item>Machine learning</button></li><li class="select-item"><button data-select-item>AI</button></li></ul>
+
           </div>
+
+          <ul class="project-list">
+<li class="project-item active" data-filter-item data-category="ai"><a href="https://github.com/chandusriii/problem-1-1-video-classifier" target="_blank" rel="noreferrer"><figure class="project-img"><div class="project-item-icon-box"><ion-icon name="open-outline"></ion-icon></div><img src="./assets/images/video.svg" alt="Lightweight Video Classifier" loading="lazy"></figure><h3 class="project-title">Lightweight Video Classifier</h3><p class="project-category">Multimodal AI</p></a></li>
+<li class="project-item active" data-filter-item data-category="ai"><a href="https://github.com/chandusriii/problem-1-2-user-intent-classifier" target="_blank" rel="noreferrer"><figure class="project-img"><div class="project-item-icon-box"><ion-icon name="open-outline"></ion-icon></div><img src="./assets/images/intent.svg" alt="User Intent Classifier" loading="lazy"></figure><h3 class="project-title">User Intent Classifier</h3><p class="project-category">NLP & AI Systems</p></a></li>
+<li class="project-item active" data-filter-item data-category="machine learning"><a href="https://github.com/chandusriii/novagen-health-risk-classification" target="_blank" rel="noreferrer"><figure class="project-img"><div class="project-item-icon-box"><ion-icon name="open-outline"></ion-icon></div><img src="./assets/images/health.svg" alt="NovaGen Health Risk Classification" loading="lazy"></figure><h3 class="project-title">NovaGen Health Risk Classification</h3><p class="project-category">Machine Learning</p></a></li>
+<li class="project-item active" data-filter-item data-category="machine learning"><a href="https://github.com/chandusriii/smartcart-clustering-system" target="_blank" rel="noreferrer"><figure class="project-img"><div class="project-item-icon-box"><ion-icon name="open-outline"></ion-icon></div><img src="./assets/images/cluster.svg" alt="SmartCart Clustering System" loading="lazy"></figure><h3 class="project-title">SmartCart Clustering System</h3><p class="project-category">Unsupervised Learning</p></a></li>
+<li class="project-item active" data-filter-item data-category="machine learning"><a href="https://github.com/chandusriii/house_price_prediction" target="_blank" rel="noreferrer"><figure class="project-img"><div class="project-item-icon-box"><ion-icon name="open-outline"></ion-icon></div><img src="./assets/images/regression.svg" alt="House Price Prediction" loading="lazy"></figure><h3 class="project-title">House Price Prediction</h3><p class="project-category">Regression</p></a></li>
+<li class="project-item active" data-filter-item data-category="machine learning"><a href="https://github.com/chandusriii/Heart-Disease-Prediction-Logistic-Regression" target="_blank" rel="noreferrer"><figure class="project-img"><div class="project-item-icon-box"><ion-icon name="open-outline"></ion-icon></div><img src="./assets/images/health.svg" alt="Heart Disease Prediction" loading="lazy"></figure><h3 class="project-title">Heart Disease Prediction</h3><p class="project-category">Classification</p></a></li>
+<li class="project-item active" data-filter-item data-category="machine learning"><a href="https://github.com/chandusriii/iris-flower-ml-classification" target="_blank" rel="noreferrer"><figure class="project-img"><div class="project-item-icon-box"><ion-icon name="open-outline"></ion-icon></div><img src="./assets/images/iris.svg" alt="Iris Flower Classification" loading="lazy"></figure><h3 class="project-title">Iris Flower Classification</h3><p class="project-category">Classification</p></a></li>
+<li class="project-item active" data-filter-item data-category="machine learning"><a href="https://github.com/chandusriii/machine-learning-from-scratch" target="_blank" rel="noreferrer"><figure class="project-img"><div class="project-item-icon-box"><ion-icon name="open-outline"></ion-icon></div><img src="./assets/images/code.svg" alt="Machine Learning from Scratch" loading="lazy"></figure><h3 class="project-title">Machine Learning from Scratch</h3><p class="project-category">ML Fundamentals</p></a></li>
+          </ul>
+
         </section>
-        <p class="portfolio-note"><span>↗</span> Project descriptions are concise summaries. Visit each repository for the source code, documentation, and current implementation details.</p>
+
       </article>
 
-      <article class="page" id="contact">
-        <header class="compact-header"><p class="eyebrow">HAVE A ROLE OR PROJECT IN MIND?</p><h2>Let’s build something <span class="gradient-text">useful.</span></h2><p class="lead">I’m interested in entry-level AI/ML engineering opportunities, collaborative projects, and conversations about applied AI.</p></header>
-        <section class="section contact-layout">
-          <div class="contact-card"><p class="eyebrow">QUICK LINKS</p><a href="https://github.com/chandusriii" target="_blank" rel="noreferrer"><span class="contact-symbol">GH</span><span><small>GitHub</small><strong>Explore my repositories</strong></span><b>↗</b></a><a href="https://www.linkedin.com/" target="_blank" rel="noreferrer"><span class="contact-symbol">in</span><span><small>LinkedIn</small><strong>Connect professionally</strong></span><b>↗</b></a><div class="contact-callout"><span>✳</span><p>Interested in AI/ML Engineer, Machine Learning Engineer, or Applied AI opportunities.</p></div></div>
-          <form class="contact-form" id="contact-form">
-            <p class="eyebrow">SEND A MESSAGE</p><label for="name">Your name</label><input id="name" name="name" autocomplete="name" placeholder="Jane Doe" required><label for="email">Email address</label><input id="email" name="email" type="email" autocomplete="email" placeholder="jane@example.com" required><label for="message">What would you like to discuss?</label><textarea id="message" name="message" rows="5" placeholder="Tell me a little about the opportunity..." required></textarea><button class="button button-primary" type="submit">Prepare email <span>↗</span></button><p class="form-note">This opens your default email application; it does not send anything automatically.</p>
+
+      <!--  #CONTACT  -->
+      <article class="contact" data-page="contact">
+
+        <header>
+          <h2 class="h2 article-title">Contact</h2>
+        </header>
+
+        <section class="mapbox" data-mapbox>
+          <figure>
+            <iframe src="https://www.google.com/maps?q=Vijayawada,Andhra%20Pradesh&output=embed" width="400" height="300"
+              loading="lazy"></iframe>
+          </figure>
+        </section>
+
+        <section class="contact-form">
+
+          <h3 class="h3 form-title">Contact Form</h3>
+
+          <form action="#" class="form" data-form>
+
+            <div class="input-wrapper">
+              <input type="text" name="fullname" class="form-input" placeholder="Full name" required data-form-input>
+              <input type="email" name="email" class="form-input" placeholder="Email address" required data-form-input>
+            </div>
+
+            <textarea name="message" class="form-input" placeholder="Your Message" required data-form-input></textarea>
+
+            <button class="form-btn" type="submit" disabled data-form-btn>
+              <ion-icon name="paper-plane"></ion-icon>
+              <span>Send Message</span>
+            </button>
+
+          <p class="form-note" style="font-size:12px;color:var(--light-gray);margin-top:12px">Demo form: submissions are not sent to a backend yet. Please connect through GitHub or LinkedIn.</p>
           </form>
+
         </section>
+
       </article>
-      <footer class="site-footer"><span>© <span id="year"></span> Chandu Sri</span><span>Designed with intent · Built for the web</span><a href="#top" id="back-to-top">Back to top ↑</a></footer>
-    </section>
+
+    </div>
+
   </main>
-  <script src="assets/js/script.js"></script>
+
+
+  <script src="./assets/js/script.js"></script>
+  <script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>
+  <script nomodule src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script>
+
 </body>
+
 </html>
