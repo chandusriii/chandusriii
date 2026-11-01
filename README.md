@@ -1,135 +1,104 @@
 <div align="center">
 
 # CHANDU SRI
-### AI / ML ENGINEER
+### AI/ML ENGINEER
 
-**Building intelligent software with data, machine learning, and engineering.**
+Building practical machine-learning solutions with Python, data, and thoughtful engineering.
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=18&pause=1200&color=58A6FF&center=true&vCenter=true&width=820&lines=AI+%2F+ML+ENGINEERING;PYTHON+%C2%B7+MACHINE+LEARNING+%C2%B7+DATA;FROM+IDEA+TO+WORKING+SOLUTION" alt="Animated AI and ML engineering introduction" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=18&pause=1400&color=58A6FF&center=true&vCenter=true&width=760&lines=Machine+Learning+%7C+AI+Engineering;Python+%7C+Data+%7C+Model+Evaluation;Learn+%E2%86%92+Build+%E2%86%92+Measure+%E2%86%92+Improve" alt="AI/ML engineering introduction" />
 
-</div>
-
----
-
-## PROFILE
-
-I’m **Chandu Sri**, an **AI/ML Engineer** focused on building practical solutions with Python, data, and machine learning.
-
-I enjoy turning a problem into something tangible: understanding the data, choosing an approach, building the model, evaluating the result, and refining the next version.
-
-> **Curious about the problem. Precise with the data. Practical with the solution.**
-
----
-
-## TECHNOLOGY
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,numpy,pandas,sklearn,git,github,vscode&perline=7" alt="Python, NumPy, Pandas, Scikit-learn, Git, GitHub and VS Code" />
+<p><a href="https://github.com/chandusriii"><img src="https://img.shields.io/badge/GitHub-chandusriii-181717?style=for-the-badge&logo=github" alt="GitHub profile" /></a> <a href="https://chandusriii.github.io/chandusriii/"><img src="https://img.shields.io/badge/Portfolio-Visit-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio website" /></a></p>
 
 </div>
 
-**Machine Learning**  
-`Supervised Learning` · `Regression` · `Classification` · `Model Evaluation`
+---
 
-**Data**  
-`NumPy` · `Pandas` · `EDA` · `Data Preparation` · `Feature Engineering`
+## ABOUT
 
-**Engineering**  
-`Python` · `Git` · `GitHub` · `Problem Solving` · `Model Development`
+I’m Chandu Sri, an AI/ML Engineer interested in turning data and machine-learning concepts into useful, testable software.
 
-**Exploring**  
-`Deep Learning` · `NLP` · `Generative AI` · `LLM Applications` · `MLOps` · `APIs` · `Deployment`
+I enjoy the full problem-solving workflow: understanding the problem, exploring data, building a baseline, evaluating results, and improving the solution based on evidence. I’m continuing to strengthen my foundations through hands-on projects and consistent practice.
+
+**Current direction:** entry-level AI/ML engineering opportunities where I can learn from experienced teams and contribute to real products.
 
 ---
 
-## SELECTED WORK
+## TECH STACK
 
-### 01 / HOUSE PRICE PREDICTION
+| Area | Tools and concepts |
+|---|---|
+| **Programming** | Python, SQL, Java, JavaScript |
+| **Data** | Pandas, NumPy, data cleaning, exploratory data analysis, feature engineering |
+| **Machine Learning** | Scikit-learn, regression, classification, model evaluation, hyperparameter tuning |
+| **Deep Learning & AI** | TensorFlow, PyTorch, NLP, computer vision, generative AI fundamentals |
+| **Development** | Git, GitHub, Jupyter, VS Code, APIs, Streamlit, FastAPI |
+| **Currently exploring** | LLM applications, retrieval-augmented generation, model deployment, MLOps |
 
-**Predictive ML · Regression · Structured Data**
+<div align="center"><img src="https://skillicons.dev/icons?i=python,java,js,sql,numpy,pandas,sklearn,tensorflow,pytorch,git,github,vscode&perline=6" alt="Programming, machine learning, and development tools" /></div>
 
-A practical project built around preparing structured data and training a regression model for house-price prediction.
+---
+
+## FEATURED PROJECTS
+
+### 01 · [House Price Prediction](https://github.com/chandusriii/house_price_prediction)
+**Regression · Supervised Learning**
+
+A machine-learning project focused on preparing structured data and predicting house prices using regression techniques.
 
 `Python` `Pandas` `NumPy` `Scikit-learn`
 
-**VIEW PROJECT ↗**  
-https://github.com/chandusriii/house_price_prediction
+### 02 · [Heart Disease Prediction — Logistic Regression](https://github.com/chandusriii/Heart-Disease-Prediction-Logistic-Regression)
+**Classification · Model Evaluation**
 
----
-
-### 02 / HEART DISEASE PREDICTION
-
-**Predictive ML · Classification · Logistic Regression**
-
-A supervised-learning project using patient-related features to build and evaluate a classification workflow.
+An educational classification project exploring patient-related features and a logistic-regression workflow. Not intended for medical diagnosis or clinical decision-making.
 
 `Python` `Pandas` `Scikit-learn`
 
-**VIEW PROJECT ↗**  
-https://github.com/chandusriii/Heart-Disease-Prediction-Logistic-Regression
+### 03 · [Iris Flower Classification](https://github.com/chandusriii/iris-flower-ml-classification)
+**Classification · ML Fundamentals**
 
----
-
-### 03 / IRIS FLOWER CLASSIFICATION
-
-**Machine Learning · Classification · Prediction**
-
-A focused project for working through dataset preparation, supervised learning, and prediction.
+A classic supervised-learning project covering dataset preparation, model training, and predictions.
 
 `Python` `Pandas` `Scikit-learn`
 
-**VIEW PROJECT ↗**  
-https://github.com/chandusriii/iris-flower-ml-classification
+### 04 · [Machine Learning From Scratch](https://github.com/chandusriii/machine-learning-from-scratch)
+**Algorithms · Fundamentals**
 
----
-
-### 04 / MACHINE LEARNING FROM SCRATCH
-
-**Algorithms · Fundamentals · Implementation**
-
-A hands-on workspace for understanding machine-learning concepts through implementation and experimentation.
+A hands-on space for building understanding of core machine-learning concepts through implementation and experimentation.
 
 `Python` `Algorithms` `ML Fundamentals`
 
-**VIEW PROJECT ↗**  
-https://github.com/chandusriii/machine-learning-from-scratch
+### 05 · [SecNet](https://github.com/chandusriii/SecNet)
+**Blockchain · AI · Identity & Privacy**
+
+A project exploring the intersection of blockchain and AI for identity- and privacy-focused applications.
+
+`JavaScript` `Blockchain` `AI`
 
 ---
 
-## AI / ML FOCUS
+## HOW I BUILD
 
-I’m interested in the space where **data, models, and software engineering** come together to create useful AI products.
+<div align="center"><strong>UNDERSTAND → EXPLORE → BUILD → EVALUATE → IMPROVE</strong></div>
 
-`Artificial Intelligence` · `Machine Learning` · `Deep Learning` · `NLP` · `Generative AI` · `LLM Applications` · `AI Engineering`
-
----
-
-## HOW I WORK
-
-**Understand → Explore → Build → Evaluate → Improve**
-
-I prefer clear problem framing, strong fundamentals, measurable experiments, and iteration over unnecessary complexity.
+- **Start with the problem:** clarify the goal and understand the data.
+- **Build a baseline:** choose a suitable approach before adding complexity.
+- **Measure results:** use appropriate metrics instead of relying on assumptions.
+- **Keep improving:** document decisions, refine the implementation, and make projects easier to run.
 
 ---
 
-## LET’S CONNECT
+## CURRENT FOCUS
 
-<div align="center">
+- Strengthening machine-learning and statistics fundamentals.
+- Comparing models using consistent evaluation methods.
+- Building clean, documented, reproducible Python projects.
+- Learning how to serve and deploy AI/ML models.
 
-<a href="https://github.com/chandusriii">
-<img src="https://img.shields.io/badge/GITHUB-EXPLORE-111827?style=for-the-badge&logo=github&logoColor=white" alt="Explore GitHub" />
-</a>
+---
 
-<!-- Replace with your actual LinkedIn profile -->
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
-</a>
+## CONNECT
 
-</div>
+<div align="center"><a href="https://github.com/chandusriii"><img src="https://img.shields.io/badge/GitHub-Explore%20my%20work-181717?style=for-the-badge&logo=github" alt="GitHub" /></a> <a href="https://chandusriii.github.io/chandusriii/"><img src="https://img.shields.io/badge/Portfolio-View%20my%20portfolio-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a></div>
 
-<div align="center">
-
-*AI · Data · Engineering*
-
-</div>
+> I value curiosity, solid fundamentals, measurable progress, and building things that work.
