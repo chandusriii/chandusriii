@@ -15,11 +15,15 @@
 
 ## 01 · ABOUT ME
 
-Hi, I’m **Chandu Sri** — an AI/ML engineer focused on practical machine-learning projects and strong engineering fundamentals.
+I’m **Chandu Sri**, an aspiring AI/ML Engineer who enjoys turning ideas, data, and emerging AI techniques into practical solutions. I’m especially interested in building systems that do more than work on paper — they should be understandable, measurable, and useful in the real world.
 
-I enjoy the complete ML workflow: understanding a problem, preparing data, building a baseline, evaluating models with meaningful metrics, and improving results based on evidence. I care about readable code, clear documentation, and projects others can run and understand.
+From exploring datasets and experimenting with models to building end-to-end AI projects, I focus on learning by building, evaluating with evidence, and improving through iteration. I value clean Python, thoughtful problem-solving, and documenting the decisions behind the code.
 
-> **My approach:** Start with the problem. Keep the solution clear. Measure what matters.
+<div align="center">
+
+**CURIOUS MINDSET · HANDS-ON BUILDING · EVIDENCE-DRIVEN IMPROVEMENT**
+
+</div>
 
 ---
 
