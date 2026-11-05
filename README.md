@@ -115,6 +115,22 @@ Explores patterns and groups within data using a clustering workflow.
 <tr>
 <td width="50%" valign="top">
 
+### 🧠 [Power Plant Energy Prediction — ANN Regression](https://github.com/chandusriii/power-plant-energy-prediction-ann)
+
+Deep Learning · PyTorch · Regression
+
+A feed-forward neural network predicting power plant electrical output from four environmental measurements. Includes leakage-aware preprocessing, validation-based checkpoint selection, training curves, and held-out regression metrics.
+
+<img src="https://img.shields.io/badge/PYTORCH-ANN%20REGRESSION-F5C451?style=flat-square&labelColor=171717" alt="PyTorch ANN regression" />
+
+### 🌴 [Date Fruit Classification — ANN](https://github.com/chandusriii/date-fruit-classification-ann)
+
+Deep Learning · PyTorch · Multi-class Classification
+
+A neural network classifying seven date-fruit varieties from 34 numerical features, with stratified data splitting, class-aware evaluation, and a reproducible training workflow.
+
+<img src="https://img.shields.io/badge/PYTORCH-ANN%20CLASSIFICATION-F5C451?style=flat-square&labelColor=171717" alt="PyTorch ANN classification" />
+
 ### 🏡 [House Price Prediction](https://github.com/chandusriii/house_price_prediction)
 
 Regression · Supervised Learning
